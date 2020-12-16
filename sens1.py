@@ -17,6 +17,11 @@ labels = [[z.strip() for z in x[2].split(";")] for x in data]
 labels = [([x for x in y if x in case_set]+["NONE"])[0] for y in labels]
 import random
 print(labels[:5])
+
+# - real
+# - totally shuffled
+# - shuffled within lemmas
+
 #random.shuffle(labels)
 print(labels[:5])
 #quit()
@@ -109,6 +114,7 @@ for i in range(len(data)):
   perSubsetSensitivities = [varianceBySubset[x]+0.001*len([y for y in subsets[x] if y == "0"]) for x in range(len(subsetsEnumeration))]
  # print(i)
   sensitivity, assignment = getMaxOverPartitions(A, b, x_bounds, perSubsetSensitivities)
+  print("-----")
   print(i, form, sensitivity)
 #  print(assignment)
   for i in range(len(subsets)):
