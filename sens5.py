@@ -2,7 +2,7 @@ with open("/u/scr/mhahn/UNIMORPH/lat/lat", "r") as inFile:
   data = [x.split("\t") for x in  inFile.read().strip().split("\n") if len(x) > 3]
 
 from scipy.optimize import linprog
-
+import math
 
 data = [x for x in data if "ADJ" in x[2] and "VOC" not in x[2]]
 
@@ -39,15 +39,21 @@ print(outputs[:5])
 
 import torch
 
-def variance(x):
+def variance(x, target):
    counts = defaultdict(int)
    for y in x:
      counts[y]+=1
    variance = 0
+ #  print(x, counts)
    for y in counts:
-      positive = counts[y]
-      negative = len(x) - positive
-      variance += (positive/len(x)) * (negative/len(x))
+      positive = counts[y]/len(x)
+      negative = 1 - positive
+      mean = positive - negative
+#      print(y, target, mean)
+      if target == y:
+        variance += math.pow(1-mean,2)
+      else:
+        variance += math.pow(-1-mean,2)
    return variance
 #   print(x)
 #   quit()
@@ -70,6 +76,31 @@ def getMaxOverPartitions(A, b, x_bounds, perSubsetSensitivities):
    return -res.fun, res.x
 
 
+perMasked = defaultdict(list)
+
+for i in range(len(data)):
+ # print(i)
+  form = inputs[i]
+  label = outputs[i]
+#  print(label)
+  subsets = set()
+  for s in range(len(form)+1):
+     for t in range(s):
+        subsets.add(("0"*t) + ("1"*(s-t)) + ("0"*(len(form)-s)))
+#  print(subsets)
+  subsets = list(subsets)
+  varianceBySubset = []
+  formsForSubset = []
+  if i % 10 == 0:
+     print(i/len(data))
+  for s in subsets:
+     formsForSubset.append([])
+ #    print(s, form)
+     relevantFeatureSets = []
+     relevantForm = tuple([form[j] if s[j] == "0" else "#"  for j in range(len(form))])
+     perMasked[relevantForm].append(label)
+
+
 for i in range(len(data)):
  # print(i)
   form = inputs[i]
@@ -87,30 +118,9 @@ for i in range(len(data)):
      formsForSubset.append([])
  #    print(s, form)
      relevantFeatureSets = []
-     for i2 in inputsAtLength[len(form)]:
-         form2 = inputs[i2]
-         if i == i2: #form == form2:
-           continue
-         if True: #len(form) == len(form2):
-           if s[0] == "0" and form[0] != form2[0]:
-             continue
-           matches = True
-           for j in range(len(s)):
-             if s[j] == "0" and form[j] != form2[j]:
-               matches = False
-               break
-           if matches:
-#             print(i2, form, form2, outputs[i2], case)
-             relevantFeatureSets.append(outputs[i2])
-             if len(formsForSubset[-1]) < 20:
-                formsForSubset[-1].append((form2, outputs[i2]))
-             #print(form, s, form2)
-  #   print(relevantFeatureSets)
-#     cases = [[x for x in y if x in case_set] for y in relevantFeatureSets]
-#     print(cases)
-     f = [stoi_outputs[x] for x in relevantFeatureSets] + [stoi_outputs[label]]
-#     print(f)
-     varianceBySubset.append(variance(f))
+     relevantForm = tuple([form[j] if s[j] == "0" else "#"  for j in range(len(form))])
+     f = [stoi_outputs[x] for x in perMasked[relevantForm]]
+     varianceBySubset.append(variance(f, stoi_outputs[label]))
  #    quit()
   #print(varianceBySubset)
 
