@@ -1,4 +1,4 @@
-79 9.13619721273103 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2217708, language='Hungarian-Szeged_2.8', model=None) [3.8071549864066694, 1.3165194140345493, 1.3165194140345493, 1.3165194140345493]
+99 9.13619721273103 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2217708, language='Hungarian-Szeged_2.8', model=None) [3.8071549864066694, 1.326912158485891, 1.3053534478826578, 1.3053534478826578]
 Voice 0
 Definite 2
 Number 4
