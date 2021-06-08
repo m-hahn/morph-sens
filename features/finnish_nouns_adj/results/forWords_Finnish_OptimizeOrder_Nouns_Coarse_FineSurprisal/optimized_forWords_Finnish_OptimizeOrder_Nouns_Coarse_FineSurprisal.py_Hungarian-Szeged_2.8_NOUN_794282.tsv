@@ -1,4 +1,4 @@
-39 20.8120692163206 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=794282, language='Hungarian-Szeged_2.8', model=None) [4.789362766166387, 3.1071145594961935, 2.999109705337706, 2.999109705337706]
+59 20.8120692163206 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=794282, language='Hungarian-Szeged_2.8', model=None) [4.789362766166387, 2.974081350539202, 2.974081350539202, 2.974081350539202]
 Number[psed] 0
 Number 2
 Number[psor] 4
