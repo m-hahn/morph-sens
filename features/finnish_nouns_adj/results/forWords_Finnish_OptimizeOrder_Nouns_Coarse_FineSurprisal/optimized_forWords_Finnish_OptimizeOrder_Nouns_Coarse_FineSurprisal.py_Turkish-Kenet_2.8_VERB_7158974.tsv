@@ -1,0 +1,11 @@
+19 8.86754469286793 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=7158974, language='Turkish-Kenet_2.8', model=None) [4.007784143888868, 1.3067325703068084, 1.2573862034277035, 1.2573862034277035]
+Number[psor] 0
+Person[psor] 2
+Polarity 4
+Voice 6
+Tense 8
+Aspect 10
+Mood 12
+VerbForm 14
+Person 16
+Number 18
