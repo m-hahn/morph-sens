@@ -1,4 +1,4 @@
-839 9.152309348368899 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=4860643, language='Finnish-TDT_2.8', model=None) [3.937084809913883, 1.4232734954591795, 1.3087491899300654, 1.3087491899300654]
+999 9.152309348368899 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=4860643, language='Finnish-TDT_2.8', model=None) [3.937084809913883, 1.381648527798126, 1.3694258811576145, 1.330217137595504]
 Polarity 0
 VerbForm 2
 Style 4

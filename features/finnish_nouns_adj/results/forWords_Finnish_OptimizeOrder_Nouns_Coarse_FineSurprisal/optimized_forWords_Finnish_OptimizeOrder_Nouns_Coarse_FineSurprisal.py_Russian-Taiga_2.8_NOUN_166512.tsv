@@ -1,4 +1,4 @@
-539 16.00562710292003 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=166512, language='Russian-Taiga_2.8', model=None) [4.610316878513531, 2.286518157560004, 2.286518157560004, 2.286518157560004]
+999 16.00562710292003 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=166512, language='Russian-Taiga_2.8', model=None) [4.610316878513531, 2.2873792661441357, 2.2873792661441357, 2.2873792661441357]
 Gender 0
 Abbr 2
 Foreign 4

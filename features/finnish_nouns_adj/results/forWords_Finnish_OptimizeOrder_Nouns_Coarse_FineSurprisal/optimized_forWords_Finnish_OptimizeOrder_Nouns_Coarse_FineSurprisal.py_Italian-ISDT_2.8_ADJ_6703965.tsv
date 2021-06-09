@@ -1,4 +1,4 @@
-79 18.334669349764994 Namespace(POS='ADJ', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6703965, language='Italian-ISDT_2.8', model=None) [4.700065290055832, 2.619238478537856, 2.619238478537856, 2.619238478537856]
+999 18.334669349764994 Namespace(POS='ADJ', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6703965, language='Italian-ISDT_2.8', model=None) [4.700065290055832, 2.6695257965035033, 2.6695257965035033, 2.6695257965035033]
 PronType 0
 NumType 2
 Poss 4

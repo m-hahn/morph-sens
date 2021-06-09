@@ -1,4 +1,4 @@
-539 10.745079178381534 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=1681827, language='Russian-Taiga_2.8', model=None) [4.184146041701394, 1.5356004906894904, 1.5356004906894904, 1.5356004906894904]
+999 10.745079178381534 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=1681827, language='Russian-Taiga_2.8', model=None) [4.184146041701394, 1.5350113111973622, 1.5350113111973622, 1.5350113111973622]
 Voice 0
 Mood 2
 Case 4

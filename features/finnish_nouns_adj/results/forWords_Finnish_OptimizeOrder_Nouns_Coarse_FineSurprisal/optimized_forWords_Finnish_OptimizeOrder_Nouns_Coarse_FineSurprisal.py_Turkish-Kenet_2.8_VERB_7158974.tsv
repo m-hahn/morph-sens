@@ -1,4 +1,4 @@
-639 8.865728887659152 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=7158974, language='Turkish-Kenet_2.8', model=None) [4.007784143888868, 1.3440472996106696, 1.2803264500201454, 1.2803264500201454]
+999 8.865728887659152 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=7158974, language='Turkish-Kenet_2.8', model=None) [4.007784143888868, 1.3457895516194134, 1.281259886665925, 1.2738057370620808]
 Polarity 0
 Number[psor] 2
 Person[psor] 4
