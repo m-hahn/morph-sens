@@ -1,4 +1,4 @@
-99 9.60828526027203 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=7362967, language='Italian-ISDT_2.8', model=None) [3.8904355102777575, 1.3841167703792547, 1.3841167703792547, 1.3841167703792547]
+999 9.60828526027203 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=7362967, language='Italian-ISDT_2.8', model=None) [3.8904355102777575, 1.3762207323815867, 1.3762207323815867, 1.3762207323815867]
 VerbForm 0
 Tense 2
 Person 4

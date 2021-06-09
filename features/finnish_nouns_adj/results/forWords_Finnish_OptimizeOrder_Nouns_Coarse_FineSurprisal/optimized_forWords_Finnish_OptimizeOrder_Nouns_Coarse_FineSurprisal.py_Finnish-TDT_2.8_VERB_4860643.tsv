@@ -1,10 +1,10 @@
-19 9.35619170377722 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=4860643, language='Finnish-TDT_2.8', model=None) [3.937084809913883, 1.4286578361182318, 1.3873982022067233, 1.3490214268108878]
+839 9.152309348368899 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=4860643, language='Finnish-TDT_2.8', model=None) [3.937084809913883, 1.4232734954591795, 1.3087491899300654, 1.3087491899300654]
 Polarity 0
-Connegative 2
-VerbForm 4
+VerbForm 2
+Style 4
 Number 6
-Style 8
-Voice 10
+Voice 8
+Connegative 10
 Person 12
 Clitic 14
 Tense 16

@@ -1,0 +1,10 @@
+119 14.212043095064267 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=8899072, language='Polish-PDB_2.8', model=None) [4.766779785095852, 2.2525848886319833, 2.0461716434376673, 2.0461716434376673]
+NumType 0
+Aspect 2
+VerbForm 4
+Polarity 6
+Polite 8
+Animacy 10
+Gender 12
+Number 14
+Case 16

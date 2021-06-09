@@ -1,4 +1,4 @@
-39 12.571976270452335 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6867561, language='Ancient_Greek-PROIEL_2.8', model=None) [4.375584226997767, 1.8173486490132373, 1.7836988966987044, 1.7836988966987044]
+999 12.571976270452335 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6867561, language='Ancient_Greek-PROIEL_2.8', model=None) [4.375584226997767, 1.9776067303463427, 1.9739119912982417, 1.8722757192830113]
 Gender 0
 Number 2
 Case 4

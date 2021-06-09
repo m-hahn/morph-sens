@@ -1,0 +1,11 @@
+999 9.562143684577354 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=1030936, language='German-GSD_2.8', model=None) [3.8810679994389248, 1.3660205263681933, 1.3660205263681933, 1.3660205263681933]
+Voice 0
+PronType 2
+VerbForm 4
+Person 6
+Tense 8
+Gender 10
+Foreign 12
+Case 14
+Mood 16
+Number 18

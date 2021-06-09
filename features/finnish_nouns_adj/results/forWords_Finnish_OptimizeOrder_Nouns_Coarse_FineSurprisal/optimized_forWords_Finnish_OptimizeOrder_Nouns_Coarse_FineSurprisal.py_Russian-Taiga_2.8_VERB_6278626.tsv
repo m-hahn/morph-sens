@@ -1,13 +1,13 @@
-19 10.564682404114777 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6278626, language='Russian-Taiga_2.8', model=None) [4.184146041701394, 1.6480749710443445, 1.5622086044672958, 1.530699537384814]
+659 10.430681848620758 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6278626, language='Russian-Taiga_2.8', model=None) [4.184146041701394, 1.5140035576339341, 1.475385572298893, 1.475385572298893]
 Voice 0
 Aspect 2
-Mood 4
-Tense 6
-Person 8
-Gender 10
-Case 12
-Polarity 14
-VerbForm 16
-Abbr 18
-Typo 20
-Number 22
+Tense 4
+Person 6
+Gender 8
+Mood 10
+Typo 12
+Case 14
+Number 16
+Polarity 18
+VerbForm 20
+Abbr 22
