@@ -1,0 +1,10 @@
+499 16.371293020151896 Namespace(POS='ADJ', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=9097617, language='French-GSD_2.8', model=None) [4.449532360808289, 2.4690579436376, 2.3920850023764535, 2.3920850023764535]
+Number:Plur 0
+NumType:Ord 2
+Number:Sing 4
+Person:3 6
+PronType:Ind 8
+PronType:Int 10
+Typo:Yes 12
+Gender:Fem 14
+Gender:Masc 16

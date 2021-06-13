@@ -1,0 +1,14 @@
+519 13.124283167497168 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=1106324, language='Latin-PROIEL_2.8', model=None) [4.449197233714303, 2.021169961954172, 1.8671056206138996, 1.8671056206138996]
+Gender:Masc 0
+Gender:Fem,Masc 2
+Gender:Neut 4
+Gender:Masc,Neut 6
+Gender:Fem 8
+Number:Sing 10
+Number:Plur 12
+Case:Voc 14
+Case:Gen 16
+Case:Abl 18
+Case:Acc 20
+Case:Dat 22
+Case:Nom 24

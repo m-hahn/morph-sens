@@ -3,7 +3,12 @@
 import random
 import sys
 from corpus import CORPUS
-from estimateTradeoffHeldout import calculateMemorySurprisalTradeoff
+from estimateTradeoffHeldout_Pairs import calculateMemorySurprisalTradeoff
+from math import log, exp
+from corpusIterator_V import CorpusIterator_V
+from random import shuffle, randint, Random, choice
+
+
 
 objectiveName = "LM"
 
@@ -15,7 +20,7 @@ parser.add_argument("--model", dest="model", type=str)
 parser.add_argument("--alpha", dest="alpha", type=float, default=1.0)
 parser.add_argument("--gamma", dest="gamma", type=int, default=1)
 parser.add_argument("--delta", dest="delta", type=float, default=1.0)
-parser.add_argument("--cutoff", dest="cutoff", type=int, default=4)
+parser.add_argument("--cutoff", dest="cutoff", type=int, default=8)
 parser.add_argument("--idForProcess", dest="idForProcess", type=int, default=random.randint(0,10000000))
 import random
 
@@ -117,7 +122,30 @@ stoi = dict(list(zip(itos, range(len(itos)))))
 
 itos_ = itos[::]
 shuffle(itos_)
-weights = dict(list(zip(itos_, [2*x for x in range(len(itos_))]))) # abstract slot
+if args.model == "RANDOM": # Construct a random ordering of the morphemes
+  weights = dict(list(zip(itos_, [2*x for x in range(len(itos_))])))
+elif args.model == "UNIV":
+  import compatible
+  weights = compatible.sampleCompatibleOrdering(itos_)
+  print(weights)
+else:
+  weights = {}
+  weights = {}
+  files = args.model
+  with open(files, "r") as inFile:
+     next(inFile)
+     for line in inFile:
+        if "extract" in files:
+           morpheme, weight, _ = line.strip().split("\t")
+        else:
+           morpheme, weight = line.strip().split(" ")
+        weights[morpheme] = int(weight)
+
+
+
+
+
+#weights = dict(list(zip(itos_, [2*x for x in range(len(itos_))]))) # abstract slot
 
 
 def calculateTradeoffForWeights(weights):
@@ -136,64 +164,20 @@ def calculateTradeoffForWeights(weights):
          processed.append("SOS")
  #   print(processed[:100])
 #    quit()
-    auc, devSurprisalTable = calculateMemorySurprisalTradeoff(train, dev, args)
-    return auc, devSurprisalTable
+    auc, devSurprisalTable, pmis = calculateMemorySurprisalTradeoff(train, dev, args)
+    return auc, devSurprisalTable, pmis
    
-# This will store the minimal AOC found so far and the corresponding position
-mostCorrect, mostCorrectValue = 1e100, None
-hasImproved = -1
+resultingAOC, _, pmis = calculateTradeoffForWeights(weights)
 
-import os
-for iteration in range(10000):
-  # Randomly select a morpheme whose position to update
-  coordinate=choice(itos)
+def mean(x):
+  return sum(x)/len(x)
 
-  # Stochastically filter out rare morphemes
-  while affixFrequencies.get(coordinate, 0) < 10 and random() < 0.95:
-     coordinate = choice(itos)
-  if iteration - hasImproved > 500:
-     break
-  mostCorrectValue = weights[coordinate]
-  # Iterate over possible new positions
-  for newValue in [-1] + [2*x+1 for x in range(len(itos))]: # + [weights[coordinate]]:
-
-     # Stochastically exclude positions to save compute time (no need to do this when the number of slots is small)
-     if random() < 0.4 and newValue != weights[coordinate]:
-        continue
-     print("Iteration", iteration, "Trying position", newValue, "Best AUC so far", mostCorrect, "Feature", coordinate, "Frequency", affixFrequencies.get(coordinate,0), "last improved", hasImproved)
-     # Updated weights, assuming the selected morpheme is moved to the position indicated by `newValue`.
-     weights_ = {x : y if x != coordinate else newValue for x, y in weights.items()}
-
-     # Calculate AOC for this updated assignment
-     resultingAOC, _ = calculateTradeoffForWeights(weights_)
-
-     # Update variables if AOC is smaller than minimum AOC found so far
-     if resultingAOC < mostCorrect:
-        mostCorrectValue = newValue
-        mostCorrect = resultingAOC
-        hasImproved = iteration
-  assert mostCorrect < 1e99
-  print(iteration, mostCorrect)
-  weights[coordinate] = mostCorrectValue
-  itos_ = sorted(itos, key=lambda x:weights[x])
-  weights = dict(list(zip(itos_, [2*x for x in range(len(itos_))])))
-  print(weights)
-  for x in itos_:
-     if affixFrequencies.get(x,0) < 10:
-       continue
-     print("\t".join([str(y) for y in [x, weights[x], affixFrequencies.get(x,0)]]))
-  if (iteration + 1) % 20 == 0:
-     _, surprisals = calculateTradeoffForWeights(weights_)
-
-     if os.path.exists(TARGET_DIR):
-       pass
-     else:
-       os.makedirs(TARGET_DIR)
-     with open(TARGET_DIR+"/optimized_"+__file__+"_"+args.language+"_"+args.POS+"_"+str(myID)+".tsv", "w") as outFile:
-        print(iteration, mostCorrect, str(args), surprisals, file=outFile)
-        for key in itos_:
-          print(key, weights[key], file=outFile)
-  
-
-
+with open(f"cond_mi/{__file__}_{args.language}_{args.POS}_{args.model[args.model.rfind('_')+1:-4]}", "w") as outFile:
+ print("AUC", resultingAOC, file=outFile)
+ for x1, x2 in sorted(list(pmis)):
+   if ":" not in x1 or ":" not in x2:
+     continue
+   if len(pmis[(x1,x2)]) == 1:
+     continue
+   print("\t".join([str(q) for q in [x2, x1, len(pmis[(x1,x2)]), mean(pmis[(x1,x2)])]]), file=outFile) # Note that x2 x1 are reversed because the text is reversed when calculating the PMIs
 

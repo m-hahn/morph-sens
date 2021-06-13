@@ -1,4 +1,4 @@
-639 19.07249243730095 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=8364883, language='German-GSD_2.8', model=None) [4.897269237490093, 2.7256141306037827, 2.724204439068442, 2.724204439068442]
+999 19.07249243730095 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=8364883, language='German-GSD_2.8', model=None) [4.897269237490093, 2.7268605524012335, 2.724619718855798, 2.724619718855798]
 Tense 0
 Typo 2
 Polarity 4

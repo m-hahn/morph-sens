@@ -1,0 +1,22 @@
+859 14.993938313001616 Namespace(POS='ADJ', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=313813, language='Hungarian-Szeged_2.8', model=None) [4.009250066988148, 2.1626166909119537, 2.1626166909119537, 2.1626166909119537]
+Case:Abs 0
+Case:Sup 2
+Degree:Cmp 4
+Case:All 6
+Case:Ins 8
+Case:Gen 10
+Number[psed]:Sing 12
+Degree:Sup 14
+Case:Acc 16
+Degree:Pos 18
+Case:Ess 20
+NumType:Ord 22
+Case:Nom 24
+Case:Dat 26
+Case:Sub 28
+Number[psor]:Sing 30
+Number:Plur 32
+Case:Tra 34
+Case:Ade 36
+Person[psor]:3 38
+Number:Sing 40

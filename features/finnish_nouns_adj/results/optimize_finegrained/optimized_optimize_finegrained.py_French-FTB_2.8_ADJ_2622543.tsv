@@ -1,0 +1,8 @@
+519 3.3068787776027904 Namespace(POS='ADJ', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2622543, language='French-FTB_2.8', model=None) [2.799652091900931, 0.4724112539432557, 0.4724112539432557, 0.4724112539432557]
+NumType:Card 0
+NumType:Ord 2
+Poss:Yes 4
+Number:Sing 6
+Number:Plur 8
+Gender:Masc 10
+Gender:Fem 12

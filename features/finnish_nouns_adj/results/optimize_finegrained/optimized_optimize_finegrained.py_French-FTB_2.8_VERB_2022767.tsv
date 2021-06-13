@@ -1,0 +1,17 @@
+959 1.7965811042930895 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2022767, language='French-FTB_2.8', model=None) [2.897505197778369, 0.2939780301980319, 0.29342892555888844, 0.29323873193441174]
+Voice:Pass 0
+Person:2 2
+Person:1 4
+Person:3 6
+Mood:Ind 8
+Gender:Masc 10
+Mood:Cnd 12
+Mood:Sub 14
+Mood:Imp 16
+Tense:Pres 18
+Tense:Fut 20
+Tense:Past 22
+Tense:Imp 24
+Number:Sing 26
+Number:Plur 28
+VerbForm:Fin 30

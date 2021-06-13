@@ -1,0 +1,18 @@
+599 11.555073283540587 Namespace(POS='ADJ', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=9658681, language='Latin-PROIEL_2.8', model=None) [4.175498691859573, 1.6753621086360013, 1.6438225735107184, 1.6369396884674239]
+Degree:Cmp 0
+Degree:Sup 2
+Gender:Fem,Neut 4
+Degree:Pos 6
+Number:Sing 8
+Number:Plur 10
+Case:Gen 12
+Case:Acc 14
+Case:Voc 16
+Case:Abl 18
+Case:Nom 20
+Case:Dat 22
+Gender:Masc,Neut 24
+Gender:Fem 26
+Gender:Neut 28
+Gender:Fem,Masc 30
+Gender:Masc 32

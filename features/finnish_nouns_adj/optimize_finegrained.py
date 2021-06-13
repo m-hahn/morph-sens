@@ -64,7 +64,7 @@ morphKeyValuePairs = set()
 
 vocab_lemmas = {}
 
-import finnish_noun_segmenter_coarse
+import finnish_noun_segmenter as finnish_noun_segmenter_coarse
 import finnish_noun_segmenter
 def processVerb(verb, data_):
     # assumption that each verb is a single word
@@ -158,7 +158,7 @@ for iteration in range(10000):
   for newValue in [-1] + [2*x+1 for x in range(len(itos))]: # + [weights[coordinate]]:
 
      # Stochastically exclude positions to save compute time (no need to do this when the number of slots is small)
-     if random() < 0.4 and newValue != weights[coordinate]:
+     if random() < 0.8 and newValue != weights[coordinate]:
         continue
      print("Iteration", iteration, "Trying position", newValue, "Best AUC so far", mostCorrect, "Feature", coordinate, "Frequency", affixFrequencies.get(coordinate,0), "last improved", hasImproved)
      # Updated weights, assuming the selected morpheme is moved to the position indicated by `newValue`.

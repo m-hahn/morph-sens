@@ -1,4 +1,4 @@
-519 13.211688135578544 Namespace(POS='ADJ', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2878485, language='Polish-PDB_2.8', model=None) [4.401277783092033, 1.9134914575613404, 1.9134914575613404, 1.9134914575613404]
+999 13.211688135578544 Namespace(POS='ADJ', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2878485, language='Polish-PDB_2.8', model=None) [4.401277783092033, 1.887384019368364, 1.887384019368364, 1.887384019368364]
 Degree 0
 Variant 2
 Gender 4

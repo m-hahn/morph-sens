@@ -1,4 +1,4 @@
-939 14.105016538955443 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=1305225, language='Turkish-Kenet_2.8', model=None) [4.431268494727907, 2.030170484028436, 2.009133976113013, 2.009133976113013]
+999 14.105016538955443 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=1305225, language='Turkish-Kenet_2.8', model=None) [4.431268494727907, 2.144333009637394, 2.1171474167419566, 2.0503198139739536]
 PronType 0
 Person 2
 Person[psor] 4
