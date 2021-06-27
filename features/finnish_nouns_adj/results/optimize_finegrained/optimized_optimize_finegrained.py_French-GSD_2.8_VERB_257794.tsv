@@ -1,0 +1,17 @@
+639 8.428627734633903 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=257794, language='French-GSD_2.8', model=None) [3.746172149465654, 1.211729711293143, 1.2081819976749557, 1.2081819976749557]
+VerbForm:Fin 0
+Person:2 2
+Typo:Yes 4
+Person:1 6
+Person:3 8
+Mood:Imp 10
+Mood:Ind 12
+Tense:Past 14
+Mood:Sub 16
+Tense:Fut 18
+Mood:Cnd 20
+Tense:Imp 22
+Tense:Pres 24
+Number:Plur 26
+Gender:Masc 28
+Number:Sing 30

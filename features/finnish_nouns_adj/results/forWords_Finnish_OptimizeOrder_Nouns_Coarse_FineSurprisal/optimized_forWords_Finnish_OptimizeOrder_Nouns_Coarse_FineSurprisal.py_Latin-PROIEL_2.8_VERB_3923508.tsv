@@ -1,0 +1,10 @@
+539 8.609929469783118 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=3923508, language='Latin-PROIEL_2.8', model=None) [4.038096161457935, 1.2844070447922578, 1.254196509106846, 1.254196509106846]
+Voice 0
+Aspect 2
+Tense 4
+Mood 6
+Person 8
+VerbForm 10
+Gender 12
+Case 14
+Number 16
