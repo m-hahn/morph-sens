@@ -1,4 +1,4 @@
-479 8.402931719724041 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=4580029, language='French-GSD_2.8', model=None) [3.746172149465654, 1.2004188171034342, 1.2004188171034342, 1.2004188171034342]
+559 8.402931719724041 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=4580029, language='French-GSD_2.8', model=None) [3.746172149465654, 1.2004391764370324, 1.2004391764370324, 1.2004391764370324]
 VerbForm:Fin 0
 Tense:Fut 2
 Tense:Past 4
