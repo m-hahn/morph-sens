@@ -1,4 +1,4 @@
-439 8.649370320975954 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=4930601, language='Latin-PROIEL_2.8', model=None) [4.038096161457935, 1.2497192635162984, 1.2262925415026615, 1.2262925415026615]
+519 8.649370320975954 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=4930601, language='Latin-PROIEL_2.8', model=None) [4.038096161457935, 1.2902456877970898, 1.2381106511231854, 1.2364499759994232]
 VerbForm 0
 Voice 2
 Tense 4

@@ -1,0 +1,27 @@
+559 11.08436607411878 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2503053, language='Russian-Taiga_2.8', model=None) [4.184146041701394, 1.7161904226737783, 1.5795157892118374, 1.5795157892118374]
+Case:Dat 0
+VerbForm:Fin 2
+Person:1 4
+Person:3 6
+Person:2 8
+Typo:Yes 10
+Gender:Neut 12
+Case:Ins 14
+Gender:Masc 16
+Number:Plur 18
+Gender:Fem 20
+Number:Sing 22
+Mood:Imp 24
+Tense:Fut 26
+Tense:Pres 28
+Tense:Past 30
+Abbr:Yes 32
+Case:Gen 34
+Aspect:Perf 36
+Aspect:Imp 38
+Polarity:Neg 40
+VerbForm:Conv 42
+Mood:Ind 44
+Voice:Mid 46
+Voice:Act 48
+Voice:Pass 50

@@ -1,0 +1,13 @@
+519 10.43062366670749 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=3764066, language='Russian-Taiga_2.8', model=None) [4.184146041701394, 1.5549396254835899, 1.5249142019490116, 1.5249142019490116]
+Voice 0
+Abbr 2
+Aspect 4
+Case 6
+Tense 8
+Polarity 10
+Gender 12
+Person 14
+Mood 16
+Typo 18
+Number 20
+VerbForm 22

@@ -1,0 +1,13 @@
+559 10.430465812310743 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=4591945, language='Russian-Taiga_2.8', model=None) [4.184146041701394, 1.5139116555947687, 1.4753608905563473, 1.4753608905563473]
+Voice 0
+Aspect 2
+Abbr 4
+Case 6
+Tense 8
+Person 10
+Polarity 12
+Gender 14
+Mood 16
+Typo 18
+Number 20
+VerbForm 22
