@@ -1,0 +1,19 @@
+79 16.29700890282022 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=1498125, language='Russian-Taiga_2.8', model=None) [4.610316878513531, 2.37792972766801, 2.3048325190895795, 2.3048325190895795]
+Animacy:Inan 0
+Animacy:Anim 2
+Gender:Fem 4
+Gender:Masc 6
+Case:Loc 8
+Foreign:Yes 10
+Abbr:Yes 12
+Gender:Neut 14
+Case:Par 16
+Case:Nom 18
+Case:Dat 20
+Case:Ins 22
+Case:Voc 24
+Case:Acc 26
+Case:Gen 28
+Number:Plur 30
+Number:Sing 32
+Typo:Yes 34
