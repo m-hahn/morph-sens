@@ -1,4 +1,4 @@
-79 16.511523111703394 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=198997, language='Russian-Taiga_2.8', model=None) [4.610316878513531, 2.3587890159576275, 2.3587890159576275, 2.3587890159576275]
+139 16.511523111703394 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=198997, language='Russian-Taiga_2.8', model=None) [4.610316878513531, 2.360222899687419, 2.360222899687419, 2.360222899687419]
 Animacy:Anim 0
 Animacy:Inan 2
 Case:Dat 4

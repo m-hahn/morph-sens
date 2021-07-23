@@ -1,4 +1,4 @@
-79 16.053425319041246 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=3143811, language='Russian-Taiga_2.8', model=None) [4.610316878513531, 2.2933464741487493, 2.2933464741487493, 2.2933464741487493]
+139 16.053425319041246 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=3143811, language='Russian-Taiga_2.8', model=None) [4.610316878513531, 2.2933464741487493, 2.2933464741487493, 2.2933464741487493]
 Gender:Masc 0
 Gender:Fem 2
 Case:Par 4
