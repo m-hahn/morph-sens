@@ -1,19 +1,19 @@
-139 16.003780566663377 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=1498125, language='Russian-Taiga_2.8', model=None) [4.610316878513531, 2.310630752089712, 2.299849315038458, 2.299849315038458]
+659 15.962606194622957 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=1498125, language='Russian-Taiga_2.8', model=None) [4.610316878513531, 2.280372313517565, 2.280372313517565, 2.280372313517565]
 Gender:Fem 0
 Gender:Masc 2
 Gender:Neut 4
-Animacy:Inan 6
-Case:Loc 8
+Typo:Yes 6
+Animacy:Inan 8
 Foreign:Yes 10
 Animacy:Anim 12
 Abbr:Yes 14
 Case:Par 16
-Case:Nom 18
-Case:Dat 20
-Case:Ins 22
-Case:Voc 24
-Case:Acc 26
-Case:Gen 28
-Number:Plur 30
-Number:Sing 32
-Typo:Yes 34
+Case:Loc 18
+Case:Nom 20
+Case:Dat 22
+Case:Ins 24
+Case:Voc 26
+Case:Acc 28
+Case:Gen 30
+Number:Plur 32
+Number:Sing 34
