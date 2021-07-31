@@ -1,0 +1,11 @@
+99 18.12622987434922 Namespace(POS='ADJ', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=5585091, language='Spanish-GSD_2.8', model=None) [4.717383799071503, 2.5897813604620867, 2.5897813604620867, 2.5897813604620867]
+Degree:Sup 0
+Degree:Abs 2
+VerbForm:Ger 4
+Degree:Cmp 6
+Polarity:Neg 8
+NumType:Ord 10
+Gender:Fem 12
+Gender:Masc 14
+Number:Sing 16
+Number:Plur 18

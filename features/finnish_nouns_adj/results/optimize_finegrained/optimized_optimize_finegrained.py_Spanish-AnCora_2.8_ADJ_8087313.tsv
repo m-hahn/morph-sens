@@ -1,0 +1,10 @@
+119 17.076119577954028 Namespace(POS='ADJ', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=8087313, language='Spanish-AnCora_2.8', model=None) [4.667630519592306, 2.600366044370334, 2.497605028855058, 2.497605028855058]
+AdvType:Tim 0
+Degree:Sup 2
+NumType:Ord 4
+Degree:Abs 6
+Degree:Cmp 8
+Gender:Masc 10
+Gender:Fem 12
+Number:Plur 14
+Number:Sing 16

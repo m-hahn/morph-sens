@@ -1,0 +1,18 @@
+59 10.2735456559544 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=8186439, language='Spanish-GSD_2.8', model=None) [3.9802379168834654, 1.4847297423546362, 1.4581867836457378, 1.4581867836457378]
+Person:3 0
+Person:2 2
+Mood:Imp 4
+Tense:Fut 6
+Person:1 8
+Tense:Pres 10
+Tense:Imp 12
+Tense:Past 14
+Number:Sing 16
+Number:Plur 18
+Mood:Cnd 20
+Mood:Ind 22
+Mood:Sub 24
+Gender:Fem 26
+VerbForm:Ger 28
+Gender:Masc 30
+VerbForm:Fin 32

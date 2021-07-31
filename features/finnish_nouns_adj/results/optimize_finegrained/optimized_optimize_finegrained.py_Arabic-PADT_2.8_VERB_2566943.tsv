@@ -1,0 +1,18 @@
+39 8.066120629555883 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2566943, language='Arabic-PADT_2.8', model=None) [3.8347282629411237, 1.1910495955233917, 1.1910495955233917, 1.1469363944541098]
+Voice:Pass 0
+Voice:Act 2
+Person:3 4
+Person:2 6
+Person:1 8
+Mood:Ind 10
+Mood:Imp 12
+Gender:Masc 14
+Gender:Fem 16
+Number:Dual 18
+Number:Sing 20
+Number:Plur 22
+Mood:Sub 24
+Aspect:Imp 26
+VerbForm:Fin 28
+Mood:Jus 30
+Aspect:Perf 32

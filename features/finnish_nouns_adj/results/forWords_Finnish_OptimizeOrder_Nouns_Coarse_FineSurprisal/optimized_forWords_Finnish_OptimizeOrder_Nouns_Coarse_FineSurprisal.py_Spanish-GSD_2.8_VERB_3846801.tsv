@@ -1,0 +1,7 @@
+19 10.175169270977705 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=3846801, language='Spanish-GSD_2.8', model=None) [3.9802379168834654, 1.4746129172875113, 1.4521241960464193, 1.4521241960464193]
+VerbForm 0
+Tense 2
+Mood 4
+Gender 6
+Person 8
+Number 10
