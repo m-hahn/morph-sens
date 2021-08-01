@@ -1,4 +1,4 @@
-119 17.076119577954028 Namespace(POS='ADJ', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=8087313, language='Spanish-AnCora_2.8', model=None) [4.667630519592306, 2.600366044370334, 2.497605028855058, 2.497605028855058]
+539 17.076119577954028 Namespace(POS='ADJ', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=8087313, language='Spanish-AnCora_2.8', model=None) [4.667630519592306, 2.439445653993433, 2.439445653993433, 2.439445653993433]
 AdvType:Tim 0
 Degree:Sup 2
 NumType:Ord 4

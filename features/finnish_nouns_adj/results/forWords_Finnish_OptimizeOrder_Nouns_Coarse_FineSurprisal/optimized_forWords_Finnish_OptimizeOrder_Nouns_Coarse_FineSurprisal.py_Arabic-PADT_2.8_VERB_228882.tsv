@@ -1,4 +1,4 @@
-19 7.734536237222525 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=228882, language='Arabic-PADT_2.8', model=None) [3.8347282629411237, 1.209768109312258, 1.1320416208789177, 1.1320416208789177]
+499 7.734536237222525 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=228882, language='Arabic-PADT_2.8', model=None) [3.8347282629411237, 1.1939791624647917, 1.113554172048586, 1.113554172048586]
 Voice 0
 Person 2
 Number 4

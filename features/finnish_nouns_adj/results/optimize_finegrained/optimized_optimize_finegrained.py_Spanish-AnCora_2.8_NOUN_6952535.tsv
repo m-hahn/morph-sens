@@ -1,10 +1,10 @@
-19 16.989803323426997 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6952535, language='Spanish-AnCora_2.8', model=None) [4.812302747411858, 2.5839144878617377, 2.4425582849391057, 2.4425582849391057]
+519 16.9897368780334 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6952535, language='Spanish-AnCora_2.8', model=None) [4.812302747411858, 2.431909855592511, 2.424634108549556, 2.424634108549556]
 AdvType:Tim 0
 Gender:Fem 2
 Gender:Masc 4
 Number:Plur 6
 NumForm:Digit 8
 Foreign:Yes 10
-Number:Sing 12
-VerbForm:Fin 14
-PunctType:Comm 16
+VerbForm:Fin 12
+PunctType:Comm 14
+Number:Sing 16

@@ -1,4 +1,4 @@
-59 18.126323529470465 Namespace(POS='ADJ', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=1211408, language='Spanish-GSD_2.8', model=None) [4.717383799071503, 2.590139096983374, 2.590139096983374, 2.590139096983374]
+499 18.126323529470465 Namespace(POS='ADJ', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=1211408, language='Spanish-GSD_2.8', model=None) [4.717383799071503, 2.5900184400071478, 2.5900184400071478, 2.5900184400071478]
 Degree:Abs 0
 NumType:Ord 2
 Degree:Sup 4

@@ -1,4 +1,4 @@
-99 18.12622987434922 Namespace(POS='ADJ', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=5585091, language='Spanish-GSD_2.8', model=None) [4.717383799071503, 2.5897813604620867, 2.5897813604620867, 2.5897813604620867]
+559 18.12622987434922 Namespace(POS='ADJ', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=5585091, language='Spanish-GSD_2.8', model=None) [4.717383799071503, 2.589461410621318, 2.589461410621318, 2.589461410621318]
 Degree:Sup 0
 Degree:Abs 2
 VerbForm:Ger 4

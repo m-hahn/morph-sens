@@ -1,17 +1,17 @@
-19 9.271849155135676 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6121529, language='Spanish-AnCora_2.8', model=None) [3.8956695732650335, 1.4129867417093527, 1.3213910845921522, 1.3213910845921522]
-Mood:Ind 0
-Mood:Sub 2
-Gender:Masc 4
-Mood:Cnd 6
-Person:2 8
-Tense:Past 10
+539 9.166485579043716 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6121529, language='Spanish-AnCora_2.8', model=None) [3.8956695732650335, 1.314549788233815, 1.314549788233815, 1.314549788233815]
+VerbForm:Fin 0
+Mood:Ind 2
+Mood:Imp 4
+Tense:Fut 6
+Mood:Sub 8
+Gender:Masc 10
 Tense:Pres 12
 Tense:Imp 14
-Mood:Imp 16
-Tense:Fut 18
-VerbForm:Ger 20
-Person:1 22
-Person:3 24
-Number:Plur 26
-Number:Sing 28
-VerbForm:Fin 30
+Mood:Cnd 16
+Tense:Past 18
+Person:2 20
+VerbForm:Ger 22
+Person:1 24
+Person:3 26
+Number:Plur 28
+Number:Sing 30

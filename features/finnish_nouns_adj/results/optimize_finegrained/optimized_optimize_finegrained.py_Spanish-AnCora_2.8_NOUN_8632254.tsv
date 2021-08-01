@@ -1,4 +1,4 @@
-19 16.989732951584116 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=8632254, language='Spanish-AnCora_2.8', model=None) [4.812302747411858, 2.43191053780377, 2.4246329081401385, 2.4246329081401385]
+499 16.989732951584116 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=8632254, language='Spanish-AnCora_2.8', model=None) [4.812302747411858, 2.4319078083311645, 2.4246321577663523, 2.4246321577663523]
 AdvType:Tim 0
 NumForm:Digit 2
 PunctType:Comm 4
