@@ -1,0 +1,9 @@
+519 16.894693187844204 Namespace(POS='ADJ', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6453830, language='Catalan-AnCora_2.8', model=None) [4.601077154674571, 2.4135275982634576, 2.4135275982634576, 2.4135275982634576]
+Foreign:Yes 0
+NumType:Ord 2
+Gender:Fem 4
+Gender:Masc 6
+Degree:Cmp 8
+Number:Sing 10
+Number:Plur 12
+NumForm:Digit 14

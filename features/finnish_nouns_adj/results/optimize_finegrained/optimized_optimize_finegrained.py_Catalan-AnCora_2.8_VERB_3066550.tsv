@@ -1,0 +1,17 @@
+599 8.919019940405981 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=3066550, language='Catalan-AnCora_2.8', model=None) [3.8341471335293535, 1.2741457057722834, 1.2741457057722834, 1.2741457057722834]
+VerbForm:Fin 0
+Person:1 2
+Person:2 4
+VerbForm:Ger 6
+Person:3 8
+Number:Plur 10
+Number:Sing 12
+Foreign:Yes 14
+Mood:Imp 16
+Mood:Sub 18
+Mood:Ind 20
+Tense:Past 22
+Tense:Fut 24
+Mood:Cnd 26
+Tense:Pres 28
+Tense:Imp 30

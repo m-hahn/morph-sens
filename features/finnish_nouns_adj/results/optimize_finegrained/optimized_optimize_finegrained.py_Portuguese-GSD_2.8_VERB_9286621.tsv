@@ -1,0 +1,7 @@
+499 22.356587507449547 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=9286621, language='Portuguese-GSD_2.8', model=None) [5.189855010347821, 3.193798215349935, 3.193798215349935, 3.193798215349935]
+VerbForm:Fin 0
+Person:3 2
+VerbForm:Ger 4
+Number:Sing 6
+Mood:Ind 8
+Tense:Past 10

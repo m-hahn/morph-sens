@@ -1,0 +1,8 @@
+499 16.451714083912762 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=4489790, language='Catalan-AnCora_2.8', model=None) [4.768857757341163, 2.3604136821446016, 2.34491094358164, 2.34491094358164]
+NumForm:Digit 0
+Gender:Fem 2
+Gender:Masc 4
+AdvType:Tim 6
+Number:Sing 8
+Number:Plur 10
+Foreign:Yes 12
