@@ -1,4 +1,4 @@
-639 9.459978925701172 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=7837986, language='Portuguese-Bosque_2.8', model=None) [3.8527144178448816, 1.4200063911891156, 1.4149609089349269, 1.377684421068101]
+779 9.459978925701172 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=7837986, language='Portuguese-Bosque_2.8', model=None) [3.8527144178448816, 1.371138122459914, 1.371138122459914, 1.371138122459914]
 Tense:Pqp 0
 VerbForm:Fin 2
 VerbForm:Ger 4

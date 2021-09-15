@@ -1,4 +1,4 @@
-139 14.095173379274232 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=4399061, language='Arabic-PADT_2.8', model=None) [4.4437923484593, 2.1738993355515417, 1.9928846052433578, 1.9928846052433578]
+439 14.095173330035685 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=4399061, language='Arabic-PADT_2.8', model=None) [4.4437923484593, 2.174523810348172, 2.095502588039595, 2.068821564752437]
 Gender:Fem 0
 Number:Plur 2
 Number:Dual 4
@@ -6,8 +6,8 @@ Number:Sing 6
 Definite:Cons 8
 Definite:Def 10
 Definite:Ind 12
-Gender:Masc 14
-Polarity:Neg 16
-Case:Acc 18
-Case:Gen 20
-Case:Nom 22
+Polarity:Neg 14
+Case:Acc 16
+Case:Gen 18
+Case:Nom 20
+Gender:Masc 22

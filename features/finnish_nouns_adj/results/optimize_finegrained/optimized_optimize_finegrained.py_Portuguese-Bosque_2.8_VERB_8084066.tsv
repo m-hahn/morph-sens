@@ -1,4 +1,4 @@
-639 9.35191459991994 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=8084066, language='Portuguese-Bosque_2.8', model=None) [3.8527144178448816, 1.335987799988563, 1.335987799988563, 1.335987799988563]
+759 9.35191459991994 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=8084066, language='Portuguese-Bosque_2.8', model=None) [3.8527144178448816, 1.366131963177185, 1.366131963177185, 1.366131963177185]
 VerbForm:Fin 0
 Person:1 2
 Person:3 4

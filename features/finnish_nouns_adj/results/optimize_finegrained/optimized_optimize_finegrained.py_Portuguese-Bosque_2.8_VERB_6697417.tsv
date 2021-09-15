@@ -1,4 +1,4 @@
-659 9.455332776821468 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6697417, language='Portuguese-Bosque_2.8', model=None) [3.8527144178448816, 1.3573759654712971, 1.3496087217333685, 1.3496087217333685]
+699 9.455332776821468 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6697417, language='Portuguese-Bosque_2.8', model=None) [3.8527144178448816, 1.4032537310214768, 1.3498836788063917, 1.3498836788063917]
 VerbForm:Fin 0
 Voice:Pass 2
 Person:1 4
