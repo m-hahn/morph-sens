@@ -1,0 +1,20 @@
+659 9.455332776821468 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6697417, language='Portuguese-Bosque_2.8', model=None) [3.8527144178448816, 1.3573759654712971, 1.3496087217333685, 1.3496087217333685]
+VerbForm:Fin 0
+Voice:Pass 2
+Person:1 4
+Tense:Pqp 6
+Person:3 8
+Mood:Ind 10
+VerbForm:Ger 12
+Gender:Masc 14
+Mood:Sub 16
+Mood:Cnd 18
+Gender:Fem 20
+Number:Plur 22
+Number:Sing 24
+Tense:Fut 26
+Tense:Imp 28
+Mood:Imp 30
+Tense:Past 32
+Tense:Pres 34
+Person:2 36

@@ -1,4 +1,4 @@
-399 16.451685901053132 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=5719519, language='Catalan-AnCora_2.8', model=None) [4.768857757341163, 2.3604086937753763, 2.3449074053523904, 2.3449074053523904]
+499 16.451685901053132 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=5719519, language='Catalan-AnCora_2.8', model=None) [4.768857757341163, 2.3604086937753763, 2.3449074053523904, 2.3449074053523904]
 AdvType 0
 NumForm 2
 Gender 4
