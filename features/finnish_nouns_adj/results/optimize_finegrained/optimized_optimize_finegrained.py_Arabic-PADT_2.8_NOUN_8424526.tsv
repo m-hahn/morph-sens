@@ -1,4 +1,4 @@
-399 14.241462054985487 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=8424526, language='Arabic-PADT_2.8', model=None) [4.4437923484593, 2.034897122782043, 2.0342833697471367, 2.0342833697471367]
+559 14.241462054985487 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=8424526, language='Arabic-PADT_2.8', model=None) [4.4437923484593, 2.034897122782043, 2.0342833697471367, 2.0342833697471367]
 Gender:Masc 0
 Gender:Fem 2
 Definite:Ind 4
