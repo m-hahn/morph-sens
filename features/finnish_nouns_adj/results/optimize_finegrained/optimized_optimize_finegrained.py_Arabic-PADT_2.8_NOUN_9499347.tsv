@@ -1,0 +1,13 @@
+919 14.129602848655047 Namespace(POS='NOUN', alpha=1.0, cutoff=6, delta=1.0, gamma=1, idForProcess=9499347, language='Arabic-PADT_2.8', model=None) [4.597200841752456, 2.0440733729280542, 2.0044922848749533, 2.0044922848749533, 2.0044922848749533, 2.0044922848749533]
+Gender:Masc 0
+Number:Dual 2
+Gender:Fem 4
+Number:Sing 6
+Number:Plur 8
+Definite:Cons 10
+Definite:Def 12
+Definite:Ind 14
+Polarity:Neg 16
+Case:Acc 18
+Case:Gen 20
+Case:Nom 22
