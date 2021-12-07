@@ -1,11 +1,11 @@
-59 8.054068626949242 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2323234, language='Polish-PDB_2.8', model=None) [4.038897810334671, 1.2507708939114104, 1.1536227538225323, 1.1536227538225323]
+119 8.017178768476505 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2323234, language='Polish-PDB_2.8', model=None) [4.038897810334671, 1.2351045629439938, 1.1891262085507464, 1.1891262085507464]
 Aspect 0
-Voice 2
+VerbType 2
 Tense 4
-VerbType 6
-Gender 8
-Animacy 10
-Person 12
+Gender 6
+Animacy 8
+Person 10
+Mood 12
 Number 14
-Mood 16
-VerbForm 18
+VerbForm 16
+Voice 18

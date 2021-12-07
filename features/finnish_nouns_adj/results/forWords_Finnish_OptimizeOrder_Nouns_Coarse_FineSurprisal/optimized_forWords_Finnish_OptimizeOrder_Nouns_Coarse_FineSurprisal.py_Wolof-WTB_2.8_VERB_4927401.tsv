@@ -1,4 +1,4 @@
-199 14.777118117620642 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=4927401, language='Wolof-WTB_2.8', model=None) [4.126663837257775, 2.1110168739458057, 2.1110168739458057, 2.1110168739458057]
+519 14.777118117620642 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=4927401, language='Wolof-WTB_2.8', model=None) [4.126663837257775, 2.1577131113435666, 2.145872404957533, 2.145872404957533]
 VerbForm 0
 Number 2
 Person 4

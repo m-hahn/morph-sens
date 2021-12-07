@@ -1,4 +1,4 @@
-39 9.070702493472563 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=5275144, language='Norwegian-Nynorsk_2.8', model=None) [3.672157478615204, 1.299012852496927, 1.299012852496927, 1.299012852496927]
+319 9.070702493472563 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=5275144, language='Norwegian-Nynorsk_2.8', model=None) [3.672157478615204, 1.2989417385425093, 1.2989417385425093, 1.2989417385425093]
 Abbr 0
 VerbForm 2
 Tense 4

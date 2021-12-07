@@ -1,4 +1,4 @@
-159 8.792632145276954 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2818143, language='Slovenian-SSJ_2.8', model=None) [3.835398888093251, 1.2669228349996595, 1.2644005586170675, 1.2644005586170675]
+519 8.792632145276954 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2818143, language='Slovenian-SSJ_2.8', model=None) [3.835398888093251, 1.2864750841885813, 1.2511156888432282, 1.2511156888432282]
 Polarity 0
 Aspect 2
 Person 4

@@ -1,4 +1,4 @@
-279 9.3355612078708 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=5925261, language='Uyghur-UDT_2.8', model=None) [4.100265584119586, 1.3346442887838945, 1.3346442887838945, 1.3346442887838945]
+519 9.3355612078708 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=5925261, language='Uyghur-UDT_2.8', model=None) [4.100265584119586, 1.376035370493278, 1.3547468521011825, 1.3547468521011825]
 Voice 0
 Polarity 2
 Number[psor] 4

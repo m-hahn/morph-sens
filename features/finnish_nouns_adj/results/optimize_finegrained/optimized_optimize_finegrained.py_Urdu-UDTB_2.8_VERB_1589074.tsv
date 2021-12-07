@@ -1,4 +1,4 @@
-319 8.133786283935933 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=1589074, language='Urdu-UDTB_2.8', model=None) [3.7490004288095253, 1.1619694691337048, 1.1619694691337048, 1.1619694691337048]
+979 8.133054049496277 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=1589074, language='Urdu-UDTB_2.8', model=None) [3.7490004288095253, 1.3094845923913612, 1.192411758714605, 1.192411758714605]
 Case:Acc 0
 Tense:Past 2
 Tense:Pres 4
@@ -12,10 +12,10 @@ Mood:Ind 18
 VerbForm:Fin 20
 Number:Sing 22
 Person:1 24
-Person:2 26
-Number:Plur 28
-Mood:Imp 30
-Polite:Infm 32
+Number:Plur 26
+Mood:Imp 28
+Polite:Infm 30
+Person:2 32
 Person:3 34
 Voice:Pass 36
 Voice:Act 38

@@ -1,4 +1,4 @@
-159 9.173181923599579 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=37328, language='Slovak-SNK_2.8', model=None) [3.7753179255120446, 1.3282226478384538, 1.3282226478384538, 1.3282226478384538]
+499 9.173181923599579 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=37328, language='Slovak-SNK_2.8', model=None) [3.7753179255120446, 1.3131638975090287, 1.3131638975090287, 1.3131638975090287]
 Aspect 0
 Polarity 2
 Typo 4

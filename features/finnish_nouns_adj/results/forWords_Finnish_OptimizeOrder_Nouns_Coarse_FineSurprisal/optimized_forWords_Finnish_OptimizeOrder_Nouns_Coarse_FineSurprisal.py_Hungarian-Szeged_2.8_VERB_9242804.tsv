@@ -1,0 +1,9 @@
+539 9.139122599877268 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=9242804, language='Hungarian-Szeged_2.8', model=None) [3.8071549864066694, 1.3272551426854922, 1.3058139223939145, 1.3058139223939145]
+Voice 0
+Definite 2
+Number 4
+Person 6
+Tense 8
+Mood 10
+VerbForm 12
+Aspect 14

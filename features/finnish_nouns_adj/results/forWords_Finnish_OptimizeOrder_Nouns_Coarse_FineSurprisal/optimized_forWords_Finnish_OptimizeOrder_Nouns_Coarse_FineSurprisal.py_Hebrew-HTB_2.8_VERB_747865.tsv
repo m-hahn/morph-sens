@@ -1,4 +1,4 @@
-99 9.456761261538933 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=747865, language='Hebrew-HTB_2.8', model=None) [4.24680226098809, 1.3679026399052783, 1.367456289518349, 1.367456289518349]
+519 9.456761261538933 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=747865, language='Hebrew-HTB_2.8', model=None) [4.24680226098809, 1.3671246021085668, 1.3671246021085668, 1.3671246021085668]
 HebBinyan 0
 Voice 2
 HebExistential 4

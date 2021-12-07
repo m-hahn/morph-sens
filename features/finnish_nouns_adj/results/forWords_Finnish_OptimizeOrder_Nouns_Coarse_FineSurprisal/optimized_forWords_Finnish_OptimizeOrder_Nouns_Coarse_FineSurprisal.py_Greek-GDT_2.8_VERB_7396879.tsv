@@ -1,4 +1,4 @@
-179 8.867252609977996 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=7396879, language='Greek-GDT_2.8', model=None) [3.850639358360209, 1.2667503728539995, 1.2667503728539995, 1.2667503728539995]
+499 8.867252609977996 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=7396879, language='Greek-GDT_2.8', model=None) [3.850639358360209, 1.3242355100390502, 1.3242355100390502, 1.3242355100390502]
 Mood 0
 Tense 2
 Aspect 4

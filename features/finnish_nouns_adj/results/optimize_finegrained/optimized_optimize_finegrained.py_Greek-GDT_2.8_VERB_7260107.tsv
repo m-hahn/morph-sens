@@ -1,4 +1,4 @@
-199 8.892767692398348 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=7260107, language='Greek-GDT_2.8', model=None) [3.850639358360209, 1.3612428280030617, 1.265230319527237, 1.265230319527237]
+519 8.892767692398348 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=7260107, language='Greek-GDT_2.8', model=None) [3.850639358360209, 1.3491302075056557, 1.2866728201222613, 1.2866728201222613]
 Mood:Imp 0
 Mood:Ind 2
 Voice:Act 4

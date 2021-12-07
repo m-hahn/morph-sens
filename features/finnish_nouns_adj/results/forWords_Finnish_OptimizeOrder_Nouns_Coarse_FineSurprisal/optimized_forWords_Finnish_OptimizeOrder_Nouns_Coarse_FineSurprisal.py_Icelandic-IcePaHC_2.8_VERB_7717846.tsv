@@ -1,4 +1,4 @@
-19 8.882358019481075 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=7717846, language='Icelandic-IcePaHC_2.8', model=None) [4.0286141265609094, 1.3191289528378896, 1.2823140890572453, 1.2823140890572453]
+39 8.882358019481075 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=7717846, language='Icelandic-IcePaHC_2.8', model=None) [4.0286141265609094, 1.2692785139553422, 1.2692785139553422, 1.2692785139553422]
 Foreign 0
 Number 2
 Case 4

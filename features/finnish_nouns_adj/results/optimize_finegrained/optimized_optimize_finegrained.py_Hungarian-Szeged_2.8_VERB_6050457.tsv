@@ -1,20 +1,20 @@
-239 9.201853962075951 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6050457, language='Hungarian-Szeged_2.8', model=None) [3.8071549864066694, 1.431759239589018, 1.3837569526191709, 1.3626935406258598]
+1019 9.201738503174308 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6050457, language='Hungarian-Szeged_2.8', model=None) [3.8071549864066694, 1.3259328111794149, 1.3198371650171843, 1.3198371650171843]
 VerbForm:Fin 0
 Aspect:Iter 2
 Voice:Act 4
 Person:1 6
 Voice:Cau 8
-Definite:2 10
-Person:3 12
-Person:2 14
-Tense:Past 16
-Tense:Pres 18
-Mood:Imp 20
-Mood:Pot 22
-Mood:Ind 24
-Mood:Cnd 26
-Mood:Imp,Pot 28
-Mood:Cnd,Pot 30
+Person:3 10
+Person:2 12
+Tense:Past 14
+Tense:Pres 16
+Mood:Imp 18
+Mood:Pot 20
+Mood:Ind 22
+Mood:Cnd 24
+Mood:Imp,Pot 26
+Mood:Cnd,Pot 28
+Definite:2 30
 Definite:Def 32
 Definite:Ind 34
 Number:Plur 36

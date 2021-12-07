@@ -1,4 +1,4 @@
-259 14.77884206204402 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2533060, language='Wolof-WTB_2.8', model=None) [4.126663837257775, 2.1213850292587204, 2.1213850292587204, 2.1213850292587204]
+499 14.77884206204402 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2533060, language='Wolof-WTB_2.8', model=None) [4.126663837257775, 2.128341883186476, 2.128341883186476, 2.128341883186476]
 VerbForm 0
 Mood 2
 Tense 4

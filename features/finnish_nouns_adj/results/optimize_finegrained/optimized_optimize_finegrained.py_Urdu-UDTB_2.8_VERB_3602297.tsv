@@ -1,4 +1,4 @@
-319 8.130313397042357 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=3602297, language='Urdu-UDTB_2.8', model=None) [3.7490004288095253, 1.1677126622284895, 1.1677126622284895, 1.1677126622284895]
+739 8.130313397042357 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=3602297, language='Urdu-UDTB_2.8', model=None) [3.7490004288095253, 1.18734704140499, 1.18734704140499, 1.18734704140499]
 Case:Nom 0
 Case:Acc 2
 Tense:Past 4

@@ -1,4 +1,4 @@
-179 9.797069102297996 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=517416, language='Swedish-Talbanken_2.8', model=None) [3.768825935216005, 1.3995813003282849, 1.3995813003282849, 1.3995813003282849]
+499 9.797069102297996 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=517416, language='Swedish-Talbanken_2.8', model=None) [3.768825935216005, 1.5071819657583263, 1.4609237095851648, 1.4609237095851648]
 Abbr 0
 Voice 2
 VerbForm 4

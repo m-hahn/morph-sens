@@ -1,4 +1,4 @@
-219 14.776472390683683 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6851314, language='Wolof-WTB_2.8', model=None) [4.126663837257775, 2.1228531333086234, 2.1228531333086234, 2.1228531333086234]
+699 14.776472390683683 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6851314, language='Wolof-WTB_2.8', model=None) [4.126663837257775, 2.1116782730590726, 2.1116782730590726, 2.1116782730590726]
 VerbForm:Fin 0
 Aspect:Perf 2
 Tense:Past 4

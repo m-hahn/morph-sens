@@ -1,4 +1,4 @@
-599 8.034017300982736 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=9217430, language='Turkish-Penn_2.8', model=None) [3.874371770215257, 1.1659391053488308, 1.1454595351029047, 1.1454595351029047]
+779 8.034017300982736 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=9217430, language='Turkish-Penn_2.8', model=None) [3.874371770215257, 1.1636545592008665, 1.1376444733865636, 1.1376444733865636]
 Voice:Rfl 0
 Voice:Pass 2
 Voice:Cau 4
