@@ -1,0 +1,14 @@
+19 8.76914019457557 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=9150235, language='Icelandic-IcePaHC_2.8', model=None) [4.0286141265609094, 1.29854604750782, 1.2674953556345234, 1.2674953556345234]
+Degree 0
+Voice 2
+Gender 4
+Mood 6
+Case 8
+NumType 10
+PronType 12
+Person 14
+Tense 16
+VerbForm 18
+Foreign 20
+Definite 22
+Number 24

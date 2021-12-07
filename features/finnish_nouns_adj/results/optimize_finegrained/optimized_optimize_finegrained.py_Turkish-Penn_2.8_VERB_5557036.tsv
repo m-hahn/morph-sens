@@ -1,4 +1,4 @@
-499 8.024001228069476 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=5557036, language='Turkish-Penn_2.8', model=None) [3.874371770215257, 1.1703025440958863, 1.1412220393258554, 1.1412220393258554]
+1599 8.016894246067665 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=5557036, language='Turkish-Penn_2.8', model=None) [3.874371770215257, 1.1703038210863115, 1.1415782675999542, 1.1415782675999542]
 Voice:Rfl 0
 Voice:Cau 2
 Voice:Pass 4
@@ -7,9 +7,9 @@ Voice:Rcp 8
 Polarity:Neg 10
 Mood:Opt 12
 Tense:Past 14
-Mood:Des 16
-Tense:Fut 18
-Aspect:Perf 20
+Tense:Fut 16
+Aspect:Perf 18
+Mood:Des 20
 Tense:Pres 22
 Mood:Nec 24
 Aspect:Hab 26
@@ -21,13 +21,13 @@ VerbForm:Fin 36
 Mood:Imp 38
 VerbForm:Vnoun 40
 Person[psor]:3 42
-Person[psor]:2 44
-Person[psor]:1 46
+Number[psor]:Sing 44
+Person[psor]:2 46
 Number[psor]:Plur 48
 Voice:CauPass 50
-Number[psor]:Sing 52
-Number:Sing 54
-Number:Plur 56
-Person:2 58
-Person:3 60
+Number:Sing 52
+Number:Plur 54
+Person:2 56
+Person:3 58
+Person[psor]:1 60
 Person:1 62

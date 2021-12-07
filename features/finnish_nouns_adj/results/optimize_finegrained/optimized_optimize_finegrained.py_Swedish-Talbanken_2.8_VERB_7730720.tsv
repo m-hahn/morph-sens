@@ -1,0 +1,11 @@
+659 10.046398436883972 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=7730720, language='Swedish-Talbanken_2.8', model=None) [3.768825935216005, 1.4352367412745224, 1.4352367412745224, 1.4352367412745224]
+Abbr:Yes 0
+VerbForm:Fin 2
+Mood:Sub 4
+VerbForm:Sup 6
+Mood:Ind 8
+Tense:Past 10
+Tense:Pres 12
+Mood:Imp 14
+Voice:Pass 16
+Voice:Act 18

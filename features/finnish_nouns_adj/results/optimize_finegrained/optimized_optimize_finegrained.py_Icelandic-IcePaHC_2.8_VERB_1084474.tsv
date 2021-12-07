@@ -1,24 +1,24 @@
-79 9.052023715531814 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=1084474, language='Icelandic-IcePaHC_2.8', model=None) [4.0286141265609094, 1.362286803011461, 1.2791903289081057, 1.2791903289081057]
+139 9.050710146916664 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=1084474, language='Icelandic-IcePaHC_2.8', model=None) [4.0286141265609094, 1.3134280259839437, 1.2799875923188462, 1.2799875923188462]
 Number:Sing 0
-Degree:Sup 2
-Number:Plur 4
-Definite:Def 6
-Definite:Ind 8
-Tense:Pres 10
-Degree:Cmp 12
+Number:Plur 2
+Degree:Cmp 4
+PronType:Prs 6
+Definite:Def 8
+Definite:Ind 10
+Tense:Pres 12
 PronType:Int 14
 Degree:Pos 16
 Tense:Past 18
-Gender:Neut 20
+Degree:Sup 20
 Voice:Mid 22
 Gender:Fem 24
 Voice:Act 26
 PronType:Dem 28
-PronType:Prs 30
-VerbForm:Fin 32
-VerbForm:Sup 34
-Mood:Ind 36
-Mood:Sub 38
+VerbForm:Fin 30
+VerbForm:Sup 32
+Mood:Ind 34
+Mood:Sub 36
+Gender:Neut 38
 Mood:Imp 40
 Person:2 42
 Gender:Masc 44

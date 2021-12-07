@@ -1,4 +1,4 @@
-99 8.142286557728053 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=1489872, language='Urdu-UDTB_2.8', model=None) [3.7490004288095253, 1.1743040903968995, 1.1743040903968995, 1.1743040903968995]
+519 8.142286557728053 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=1489872, language='Urdu-UDTB_2.8', model=None) [3.7490004288095253, 1.308473547306437, 1.275826432442417, 1.275826432442417]
 Polite 0
 Case 2
 Gender 4

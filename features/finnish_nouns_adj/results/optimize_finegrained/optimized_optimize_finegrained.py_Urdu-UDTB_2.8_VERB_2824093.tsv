@@ -1,0 +1,22 @@
+899 8.272335297139623 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2824093, language='Urdu-UDTB_2.8', model=None) [3.7490004288095253, 1.2142494905151218, 1.1653320122814446, 1.1653320122814446]
+Tense:Pres 0
+Gender:Fem 2
+Case:Nom 4
+Gender:Masc 6
+Tense:Past 8
+Number:Sing 10
+Number:Plur 12
+Mood:Imp 14
+Mood:Sub 16
+Person:1 18
+Polite:Infm 20
+Polite:Form 22
+Tense:Fut 24
+Mood:Ind 26
+VerbForm:Fin 28
+Person:3 30
+Voice:Pass 32
+Case:Acc 34
+Person:2 36
+Voice:Act 38
+VerbForm:Conv 40

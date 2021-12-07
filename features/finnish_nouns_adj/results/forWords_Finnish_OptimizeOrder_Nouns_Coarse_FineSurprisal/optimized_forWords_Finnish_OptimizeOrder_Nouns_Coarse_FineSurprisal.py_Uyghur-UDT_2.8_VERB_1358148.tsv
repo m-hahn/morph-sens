@@ -1,0 +1,13 @@
+519 9.287810082515502 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=1358148, language='Uyghur-UDT_2.8', model=None) [4.100265584119586, 1.3974297572804868, 1.3941920672647685, 1.3941920672647685]
+Polarity 0
+Voice 2
+Tense 4
+Number[psor] 6
+Aspect 8
+Mood 10
+Person[psor] 12
+Polite 14
+Person 16
+Number 18
+VerbForm 20
+Case 22

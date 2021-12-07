@@ -1,4 +1,4 @@
-239 8.138307581604277 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=4214512, language='Turkish-Penn_2.8', model=None) [3.874371770215257, 1.1698610190428824, 1.1698610190428824, 1.1698610190428824]
+519 8.138307581604277 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=4214512, language='Turkish-Penn_2.8', model=None) [3.874371770215257, 1.2359397168989044, 1.1701010950179431, 1.1701010950179431]
 Voice 0
 Polarity 2
 Number 4

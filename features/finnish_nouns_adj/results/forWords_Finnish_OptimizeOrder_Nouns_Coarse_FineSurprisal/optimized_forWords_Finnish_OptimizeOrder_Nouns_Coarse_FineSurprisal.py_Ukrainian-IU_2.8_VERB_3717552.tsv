@@ -1,0 +1,10 @@
+579 10.625489103465299 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=3717552, language='Ukrainian-IU_2.8', model=None) [4.130143251122025, 1.6194529141712206, 1.6009666050322047, 1.553808977441466]
+Polarity 0
+Abbr 2
+Aspect 4
+Tense 6
+Gender 8
+Person 10
+Number 12
+Mood 14
+VerbForm 16

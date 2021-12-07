@@ -1,0 +1,21 @@
+739 10.621470815509703 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2765896, language='Ukrainian-IU_2.8', model=None) [4.130143251122025, 1.5267230647342267, 1.5173977126872753, 1.5173977126872753]
+Polarity:Neg 0
+Aspect:Imp 2
+Aspect:Perf 4
+Tense:Pres 6
+Tense:Fut 8
+Person:1 10
+Tense:Past 12
+Person:0 14
+Gender:Masc 16
+Gender:Fem 18
+Abbr:Yes 20
+Person:3 22
+Person:2 24
+Gender:Neut 26
+Mood:Imp 28
+Number:Sing 30
+Number:Plur 32
+Mood:Ind 34
+VerbForm:Fin 36
+VerbForm:Conv 38

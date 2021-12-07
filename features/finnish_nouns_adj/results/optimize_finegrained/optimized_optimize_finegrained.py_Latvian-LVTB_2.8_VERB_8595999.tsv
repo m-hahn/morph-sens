@@ -1,10 +1,10 @@
-279 8.577073177865767 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=8595999, language='Latvian-LVTB_2.8', model=None) [3.983709792269656, 1.2272352879678774, 1.2272352879678774, 1.2272352879678774]
+819 8.577058466974243 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=8595999, language='Latvian-LVTB_2.8', model=None) [3.983709792269656, 1.2850216531673284, 1.26527691554244, 1.26527691554244]
 Reflex:Yes 0
 Voice:Act 2
 Typo:Yes 4
 Number:Sing 6
-Number:Plur 8
-Voice:Pass 10
+Voice:Pass 8
+Number:Plur 10
 Gender:Fem 12
 Mood:Cnd 14
 Person:3 16
@@ -22,8 +22,8 @@ Mood:Imp 38
 Tense:Past 40
 Abbr:Yes 42
 Tense:Fut 44
-Evident:Fh 46
-Mood:Ind 48
+Mood:Ind 46
+Evident:Fh 48
 VerbForm:Fin 50
 Case:Gen 52
 Polarity:Pos 54
