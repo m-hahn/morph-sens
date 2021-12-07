@@ -1,11 +1,11 @@
-59 9.052390463998353 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=1084474, language='Icelandic-IcePaHC_2.8', model=None) [4.0286141265609094, 1.3169815495989776, 1.2802720503472027, 1.2802720503472027]
+79 9.052023715531814 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=1084474, language='Icelandic-IcePaHC_2.8', model=None) [4.0286141265609094, 1.362286803011461, 1.2791903289081057, 1.2791903289081057]
 Number:Sing 0
-Degree:Cmp 2
-Degree:Sup 4
-Number:Plur 6
-Definite:Def 8
-Definite:Ind 10
-Tense:Pres 12
+Degree:Sup 2
+Number:Plur 4
+Definite:Def 6
+Definite:Ind 8
+Tense:Pres 10
+Degree:Cmp 12
 PronType:Int 14
 Degree:Pos 16
 Tense:Past 18

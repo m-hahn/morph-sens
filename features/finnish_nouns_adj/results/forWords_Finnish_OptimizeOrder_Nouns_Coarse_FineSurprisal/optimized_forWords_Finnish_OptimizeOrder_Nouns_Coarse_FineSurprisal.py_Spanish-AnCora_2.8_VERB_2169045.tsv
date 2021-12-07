@@ -1,4 +1,4 @@
-239 9.131280096603174 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2169045, language='Spanish-AnCora_2.8', model=None) [3.8956695732650335, 1.3116057541101238, 1.3006618723502719, 1.3006618723502719]
+339 9.131280096603174 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2169045, language='Spanish-AnCora_2.8', model=None) [3.8956695732650335, 1.3116057541101238, 1.3006618723502719, 1.3006618723502719]
 VerbForm 0
 Gender 2
 Tense 4

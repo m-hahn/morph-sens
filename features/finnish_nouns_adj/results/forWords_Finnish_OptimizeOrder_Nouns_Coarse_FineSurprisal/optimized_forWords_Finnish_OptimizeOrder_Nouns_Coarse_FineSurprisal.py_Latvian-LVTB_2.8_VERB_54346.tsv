@@ -1,4 +1,4 @@
-119 8.561428234626977 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=54346, language='Latvian-LVTB_2.8', model=None) [3.983709792269656, 1.2739109200222898, 1.2739109200222898, 1.2739109200222898]
+179 8.561428234626977 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=54346, language='Latvian-LVTB_2.8', model=None) [3.983709792269656, 1.3086807714713011, 1.284209243247549, 1.284209243247549]
 Reflex 0
 Voice 2
 Typo 4

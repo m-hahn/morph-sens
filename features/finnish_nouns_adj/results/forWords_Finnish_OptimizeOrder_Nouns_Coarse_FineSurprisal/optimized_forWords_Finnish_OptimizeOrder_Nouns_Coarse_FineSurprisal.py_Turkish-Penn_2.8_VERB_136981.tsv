@@ -1,0 +1,11 @@
+159 8.089749513458003 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=136981, language='Turkish-Penn_2.8', model=None) [3.874371770215257, 1.2846702897295572, 1.2599788697858878, 1.2599788697858878]
+Polarity 0
+Voice 2
+Person[psor] 4
+Number[psor] 6
+Tense 8
+Aspect 10
+Mood 12
+VerbForm 14
+Person 16
+Number 18

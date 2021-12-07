@@ -1,4 +1,4 @@
-479 9.11140382741521 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=4150876, language='Hungarian-Szeged_2.8', model=None) [3.8071549864066694, 1.3131072678760083, 1.3131072678760083, 1.3131072678760083]
+559 9.11140382741521 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=4150876, language='Hungarian-Szeged_2.8', model=None) [3.8071549864066694, 1.3126796326920451, 1.2955110213755183, 1.2955110213755183]
 VerbForm 0
 Definite 2
 Voice 4

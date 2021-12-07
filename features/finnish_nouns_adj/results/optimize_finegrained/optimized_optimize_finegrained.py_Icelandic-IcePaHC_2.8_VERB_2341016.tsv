@@ -1,4 +1,4 @@
-39 8.95891343609144 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2341016, language='Icelandic-IcePaHC_2.8', model=None) [4.0286141265609094, 1.44244346560013, 1.304136366355228, 1.304136366355228]
+59 8.933074713735358 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2341016, language='Icelandic-IcePaHC_2.8', model=None) [4.0286141265609094, 1.3551546817001872, 1.310485802445731, 1.310485802445731]
 Definite:Ind 0
 Voice:Mid 2
 PronType:Ind 4
@@ -12,21 +12,21 @@ Voice:Act 18
 Number:Sing 20
 Number:Plur 22
 NumType:Card 24
-Case:Gen 26
-Mood:Ind 28
-Case:Nom 30
-Mood:Sub 32
-Case:Dat 34
-Gender:Neut 36
-Case:Acc 38
-Foreign:Yes 40
+Mood:Ind 26
+Mood:Sub 28
+Gender:Neut 30
+Person:1 32
+Case:Acc 34
+Foreign:Yes 36
+Case:Dat 38
+Case:Nom 40
 PronType:Prs 42
 Person:3 44
-Person:1 46
-Definite:Def 48
-Person:2 50
-Mood:Imp 52
-Tense:Pres 54
+Definite:Def 46
+Person:2 48
+Mood:Imp 50
+Tense:Pres 52
+Case:Gen 54
 VerbForm:Sup 56
 Tense:Past 58
 Degree:Cmp 60

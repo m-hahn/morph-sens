@@ -1,0 +1,11 @@
+239 8.138307581604277 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=4214512, language='Turkish-Penn_2.8', model=None) [3.874371770215257, 1.1698610190428824, 1.1698610190428824, 1.1698610190428824]
+Voice 0
+Polarity 2
+Number 4
+Person 6
+Tense 8
+Number[psor] 10
+Person[psor] 12
+Aspect 14
+Mood 16
+VerbForm 18

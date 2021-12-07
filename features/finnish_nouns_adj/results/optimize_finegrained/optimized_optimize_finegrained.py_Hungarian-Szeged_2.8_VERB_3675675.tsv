@@ -1,4 +1,4 @@
-1139 9.234780722428415 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=3675675, language='Hungarian-Szeged_2.8', model=None) [3.8071549864066694, 1.3594940581796944, 1.3469969199121368, 1.3469969199121368]
+1239 9.234780722428415 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=3675675, language='Hungarian-Szeged_2.8', model=None) [3.8071549864066694, 1.3462470715756842, 1.3462470715756842, 1.3462470715756842]
 Person:2 0
 Definite:2 2
 Person:3 4

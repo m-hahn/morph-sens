@@ -1,4 +1,4 @@
-159 10.879788196335028 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=8087681, language='Ukrainian-IU_2.8', model=None) [4.130143251122025, 1.5673208557106284, 1.5468784848693216, 1.5468784848693216]
+279 10.879788196335028 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=8087681, language='Ukrainian-IU_2.8', model=None) [4.130143251122025, 1.5795603933631825, 1.5795603933631825, 1.5795603933631825]
 Abbr 0
 Polarity 2
 Aspect 4

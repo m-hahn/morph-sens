@@ -1,4 +1,4 @@
-39 8.882368090532378 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=1178466, language='Icelandic-IcePaHC_2.8', model=None) [4.0286141265609094, 1.3223135729022744, 1.2821483677135779, 1.2821483677135779]
+79 8.882368090532378 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=1178466, language='Icelandic-IcePaHC_2.8', model=None) [4.0286141265609094, 1.3223135729022744, 1.2821483677135779, 1.2821483677135779]
 Number 0
 Case 2
 Gender 4

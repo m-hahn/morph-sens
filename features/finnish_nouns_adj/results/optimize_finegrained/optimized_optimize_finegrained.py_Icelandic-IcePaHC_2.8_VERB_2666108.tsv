@@ -1,20 +1,20 @@
-59 9.14306496140452 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2666108, language='Icelandic-IcePaHC_2.8', model=None) [4.0286141265609094, 1.3257369631449363, 1.3102061219162768, 1.3102061219162768]
-PronType:Prs 0
-Degree:Pos 2
-Voice:Act 4
-Number:Plur 6
-Number:Sing 8
-Case:Dat 10
-PronType:Dem 12
-VerbForm:Sup 14
-Case:Gen 16
-Degree:Sup 18
-Person:1 20
-PronType:Int 22
-Case:Nom 24
-Person:2 26
-NumType:Card 28
-Person:3 30
+79 9.129467464477017 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2666108, language='Icelandic-IcePaHC_2.8', model=None) [4.0286141265609094, 1.3398579943850473, 1.282049623182194, 1.282049623182194]
+Degree:Pos 0
+Number:Plur 2
+PronType:Prs 4
+Number:Sing 6
+Case:Dat 8
+PronType:Dem 10
+VerbForm:Sup 12
+Case:Gen 14
+Degree:Sup 16
+Person:1 18
+PronType:Int 20
+Case:Nom 22
+Person:2 24
+NumType:Card 26
+Person:3 28
+Voice:Act 30
 Case:Acc 32
 Gender:Fem 34
 Voice:Mid 36
