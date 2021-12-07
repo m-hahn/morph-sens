@@ -1,0 +1,8 @@
+179 8.872068904785415 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=7819866, language='Greek-GDT_2.8', model=None) [3.850639358360209, 1.326716888052172, 1.326716888052172, 1.326716888052172]
+Mood 0
+Tense 2
+Aspect 4
+Voice 6
+Person 8
+Number 10
+VerbForm 12

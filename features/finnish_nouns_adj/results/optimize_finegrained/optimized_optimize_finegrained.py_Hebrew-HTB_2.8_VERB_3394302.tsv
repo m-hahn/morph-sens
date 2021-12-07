@@ -1,0 +1,24 @@
+99 9.585531807880905 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=3394302, language='Hebrew-HTB_2.8', model=None) [4.24680226098809, 1.4873615614326794, 1.416504002154785, 1.4041324153717547]
+HebBinyan:HIFIL 0
+Polarity:Pos 2
+HebBinyan:HUFAL 4
+HebBinyan:NIFAL 6
+HebBinyan:PIEL 8
+Voice:Mid 10
+HebBinyan:PUAL 12
+HebBinyan:HITPAEL 14
+Voice:Pass 16
+HebExistential:Yes 18
+HebBinyan:PAAL 20
+Voice:Act 22
+Tense:Fut 24
+Tense:Past 26
+Mood:Imp 28
+Number:Sing 30
+Gender:Masc 32
+Number:Plur 34
+Gender:Fem,Masc 36
+Person:1 38
+Gender:Fem 40
+Person:3 42
+Person:2 44

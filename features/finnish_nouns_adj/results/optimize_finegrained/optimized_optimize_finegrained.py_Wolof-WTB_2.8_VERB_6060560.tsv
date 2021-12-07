@@ -1,0 +1,17 @@
+619 14.706443896953164 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6060560, language='Wolof-WTB_2.8', model=None) [4.126663837257775, 2.113229591609188, 2.113229591609188, 2.113229591609188]
+Aspect:Imp 0
+Tense:Pres 2
+VerbForm:Fin 4
+Mood:Ind 6
+Polarity:Neg 8
+Person:0 10
+Mood:Cnd 12
+Mood:Opt 14
+Person:1 16
+Mood:Imp 18
+Person:3 20
+Person:2 22
+Number:Sing 24
+Tense:Past 26
+Aspect:Perf 28
+Number:Plur 30

@@ -1,0 +1,27 @@
+679 9.348370911314799 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=5024808, language='Uyghur-UDT_2.8', model=None) [4.100265584119586, 1.335488754713769, 1.335488754713769, 1.335488754713769]
+Voice:Pass 0
+Tense:Past 2
+VerbForm:Ger 4
+VerbForm:Conv 6
+VerbForm:Fin 8
+Person[psor]:3 10
+Mood:Imp 12
+Case:Gen 14
+Mood:Ind 16
+Aspect:Perf 18
+Mood:Cnd 20
+Polarity:Neg 22
+Number:Plur 24
+Number:Sing 26
+Number[psor]:Plur,Sing 28
+Case:Abl 30
+Case:Dat 32
+Case:Nom 34
+Case:Acc 36
+Case:Loc 38
+Aspect:Hab 40
+Tense:Pres 42
+Person:2 44
+Polite:Form 46
+Person:1 48
+Person:3 50

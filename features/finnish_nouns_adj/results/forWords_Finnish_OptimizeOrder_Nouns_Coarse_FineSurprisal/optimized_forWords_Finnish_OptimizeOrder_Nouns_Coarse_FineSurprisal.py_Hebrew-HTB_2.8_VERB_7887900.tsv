@@ -1,0 +1,10 @@
+99 9.456555329545843 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=7887900, language='Hebrew-HTB_2.8', model=None) [4.24680226098809, 1.596918537585374, 1.5866007186015003, 1.5866007186015003]
+HebExistential 0
+Polarity 2
+HebBinyan 4
+Voice 6
+Number 8
+Gender 10
+Person 12
+Mood 14
+Tense 16
