@@ -1,4 +1,4 @@
-239 9.171264155084884 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=7087298, language='Spanish-AnCora_2.8', model=None) [3.8956695732650335, 1.3101805935835547, 1.3101805935835547, 1.3101805935835547]
+519 9.171264155084884 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=7087298, language='Spanish-AnCora_2.8', model=None) [3.8956695732650335, 1.337761496297519, 1.3331148421635437, 1.3331148421635437]
 VerbForm:Fin 0
 Number:Sing 2
 Number:Plur 4

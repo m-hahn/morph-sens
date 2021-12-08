@@ -1,0 +1,11 @@
+519 9.137994511998976 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=654935, language='Slovak-SNK_2.8', model=None) [3.7753179255120446, 1.3054277874284248, 1.3054277874284248, 1.3054277874284248]
+Gender 0
+Aspect 2
+VerbForm 4
+Number 6
+Typo 8
+Mood 10
+Tense 12
+Person 14
+Animacy 16
+Polarity 18

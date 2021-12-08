@@ -1,4 +1,4 @@
-659 8.138072164513492 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6904032, language='Polish-PDB_2.8', model=None) [4.038897810334671, 1.224530988546669, 1.1426792691782457, 1.1426792691782457]
+899 8.138072164513492 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6904032, language='Polish-PDB_2.8', model=None) [4.038897810334671, 1.2091517281320308, 1.139205623895999, 1.139205623895999]
 Aspect:Perf 0
 Aspect:Imp 2
 Number:Plur 4

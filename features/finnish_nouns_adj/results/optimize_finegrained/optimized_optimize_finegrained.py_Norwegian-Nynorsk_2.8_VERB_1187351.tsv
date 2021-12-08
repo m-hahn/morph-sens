@@ -1,0 +1,7 @@
+379 9.06478878659454 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=1187351, language='Norwegian-Nynorsk_2.8', model=None) [3.672157478615204, 1.306218234222279, 1.3039288651414038, 1.3039288651414038]
+Mood:Imp 0
+Abbr:Yes 2
+Mood:Ind 4
+Tense:Pres 6
+Tense:Past 8
+VerbForm:Fin 10

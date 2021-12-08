@@ -1,0 +1,25 @@
+179 8.629054642729251 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=1930758, language='Polish-PDB_2.8', model=None) [4.038897810334671, 1.2796859454307266, 1.21807673615377, 1.2016895523981712]
+Voice:Act 0
+VerbForm:Fin 2
+VerbType:Mod 4
+VerbForm:Conv 6
+Mood:Ind 8
+Mood:Imp 10
+Number:Plur 12
+Number:Sing 14
+Person:2 16
+Person:1 18
+Person:3 20
+Tense:Pres 22
+Tense:Fut 24
+VerbType:Quasi 26
+Person:0 28
+Tense:Past 30
+Aspect:Perf 32
+Aspect:Imp 34
+Gender:Masc 36
+Animacy:Inan 38
+Gender:Neut 40
+Animacy:Nhum 42
+Gender:Fem 44
+Animacy:Hum 46
