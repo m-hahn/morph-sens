@@ -1,4 +1,4 @@
-299 8.009896249001788 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6248522, language='Polish-PDB_2.8', model=None) [4.038897810334671, 1.2339058505257166, 1.1314709961568468, 1.1314709961568468]
+699 8.009896249001788 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6248522, language='Polish-PDB_2.8', model=None) [4.038897810334671, 1.1917303046802021, 1.141696969931013, 1.141696969931013]
 Aspect:Imp 0
 VerbType:Mod 2
 Tense:Pres 4

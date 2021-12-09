@@ -1,0 +1,11 @@
+139 8.017176724444074 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=1353142, language='Polish-PDB_2.8', model=None) [4.038897810334671, 1.1794080949272716, 1.145733675848165, 1.145733675848165]
+Aspect 0
+VerbType 2
+Tense 4
+Gender 6
+Person 8
+Animacy 10
+Mood 12
+Number 14
+VerbForm 16
+Voice 18

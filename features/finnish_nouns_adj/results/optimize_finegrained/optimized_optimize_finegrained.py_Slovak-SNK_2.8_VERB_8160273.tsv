@@ -1,9 +1,9 @@
-919 9.25495630396681 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=8160273, language='Slovak-SNK_2.8', model=None) [3.7753179255120446, 1.367881190854627, 1.367881190854627, 1.367881190854627]
-Aspect:Imp,Perf 0
-Aspect:Perf 2
-Aspect:Imp 4
-Person:2 6
-Gender:Fem 8
+1599 9.234267227601418 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=8160273, language='Slovak-SNK_2.8', model=None) [3.7753179255120446, 1.3724209822272564, 1.3724209822272564, 1.3724209822272564]
+Gender:Fem 0
+Aspect:Imp,Perf 2
+Aspect:Perf 4
+Aspect:Imp 6
+Person:2 8
 Person:3 10
 Person:1 12
 Polarity:Neg 14

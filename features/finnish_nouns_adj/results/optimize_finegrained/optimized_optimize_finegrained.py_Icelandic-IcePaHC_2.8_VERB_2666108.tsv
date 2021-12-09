@@ -1,4 +1,4 @@
-379 9.070959704706262 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2666108, language='Icelandic-IcePaHC_2.8', model=None) [4.0286141265609094, 1.3518313099313046, 1.3146337523670082, 1.3022752057953402]
+499 9.070959704706262 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2666108, language='Icelandic-IcePaHC_2.8', model=None) [4.0286141265609094, 1.3160425500464552, 1.283740072958226, 1.283740072958226]
 Number:Plur 0
 Number:Sing 2
 Case:Dat 4

@@ -1,4 +1,4 @@
-59 9.064767679612363 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=196747, language='Norwegian-Nynorsk_2.8', model=None) [3.672157478615204, 1.2949668113731947, 1.2949668113731947, 1.2949668113731947]
+499 9.064767679612363 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=196747, language='Norwegian-Nynorsk_2.8', model=None) [3.672157478615204, 1.2949668113731947, 1.2949668113731947, 1.2949668113731947]
 Abbr 0
 Mood 2
 Tense 4

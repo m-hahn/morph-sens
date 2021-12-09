@@ -1,4 +1,4 @@
-179 8.155234641190578 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2659008, language='Polish-PDB_2.8', model=None) [4.038897810334671, 1.2213711144436197, 1.1987291860754936, 1.1987291860754936]
+539 8.145773969080988 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2659008, language='Polish-PDB_2.8', model=None) [4.038897810334671, 1.2679238429708435, 1.1879848272707751, 1.1879848272707751]
 VerbType:Mod 0
 Aspect:Imp 2
 Aspect:Perf 4
@@ -14,12 +14,12 @@ Person:2 22
 Person:3 24
 Animacy:Inan 26
 Animacy:Hum 28
-VerbType:Quasi 30
-Animacy:Nhum 32
-Gender:Neut 34
-Tense:Past 36
-VerbForm:Conv 38
-Mood:Imp 40
-Mood:Ind 42
+Animacy:Nhum 30
+Gender:Neut 32
+Tense:Past 34
+VerbForm:Conv 36
+Mood:Imp 38
+Mood:Ind 40
+VerbType:Quasi 42
 VerbForm:Fin 44
 Voice:Act 46

@@ -1,4 +1,4 @@
-379 8.73912458640256 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=9219455, language='Icelandic-IcePaHC_2.8', model=None) [4.0286141265609094, 1.2487967241910847, 1.2487967241910847, 1.2487967241910847]
+479 8.73912458640256 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=9219455, language='Icelandic-IcePaHC_2.8', model=None) [4.0286141265609094, 1.254488288536673, 1.254488288536673, 1.254488288536673]
 Degree:Cmp 0
 Voice:Act 2
 Definite:Ind 4

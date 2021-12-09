@@ -1,4 +1,4 @@
-299 8.888843165597358 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2341016, language='Icelandic-IcePaHC_2.8', model=None) [4.0286141265609094, 1.290538105497093, 1.2565338450742058, 1.2565338450742058]
+399 8.888843165597358 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2341016, language='Icelandic-IcePaHC_2.8', model=None) [4.0286141265609094, 1.3654797108870393, 1.2565374409402508, 1.2565374409402508]
 Definite:Ind 0
 Degree:Sup 2
 Degree:Cmp 4

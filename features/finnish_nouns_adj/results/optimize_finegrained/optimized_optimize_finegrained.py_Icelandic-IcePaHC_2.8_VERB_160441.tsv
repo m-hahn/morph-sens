@@ -1,4 +1,4 @@
-299 9.023831296905996 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=160441, language='Icelandic-IcePaHC_2.8', model=None) [4.0286141265609094, 1.307879903248275, 1.2771905203762466, 1.2771905203762466]
+399 9.023831296905996 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=160441, language='Icelandic-IcePaHC_2.8', model=None) [4.0286141265609094, 1.3080685165885257, 1.2774481489130212, 1.2774481489130212]
 NumType:Card 0
 Degree:Cmp 2
 VerbForm:Fin 4
