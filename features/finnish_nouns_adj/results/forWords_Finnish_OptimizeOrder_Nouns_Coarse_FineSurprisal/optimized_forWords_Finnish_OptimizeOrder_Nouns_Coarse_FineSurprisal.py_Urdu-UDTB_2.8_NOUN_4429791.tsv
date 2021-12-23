@@ -1,0 +1,9 @@
+599 11.994900406001829 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=4429791, language='Urdu-UDTB_2.8', model=None) [4.090273066866956, 1.7350695252577615, 1.7339373836551166, 1.7339373836551166]
+Voice 0
+Polite 2
+Gender 4
+Person 6
+Foreign 8
+Echo 10
+Number 12
+Case 14

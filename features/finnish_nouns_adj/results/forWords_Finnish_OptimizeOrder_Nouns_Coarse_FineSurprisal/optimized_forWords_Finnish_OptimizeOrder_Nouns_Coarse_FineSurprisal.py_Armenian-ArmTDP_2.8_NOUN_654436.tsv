@@ -1,0 +1,14 @@
+659 14.495232798310024 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=654436, language='Armenian-ArmTDP_2.8', model=None) [4.342151950714293, 2.0843328643607775, 2.0843328643607775, 2.0843328643607775]
+NameType 0
+NumForm 2
+Echo 4
+Style 6
+Abbr 8
+Animacy 10
+Number 12
+Number[psor] 14
+Poss 16
+Person[psor] 18
+Definite 20
+Typo 22
+Case 24
