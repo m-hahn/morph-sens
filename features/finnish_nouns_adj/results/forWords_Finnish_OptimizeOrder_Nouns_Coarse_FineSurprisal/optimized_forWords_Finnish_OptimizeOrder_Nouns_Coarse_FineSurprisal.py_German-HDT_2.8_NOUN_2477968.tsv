@@ -1,4 +1,4 @@
-199 13.808387891050437 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2477968, language='German-HDT_2.8', model=None) [4.605101172025504, 2.222777850239057, 2.222777850239057, 2.222777850239057]
+279 13.808387891050437 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2477968, language='German-HDT_2.8', model=None) [4.605101172025504, 1.9726528782419266, 1.9726528782419266, 1.9726528782419266]
 Degree 0
 Gender 2
 Number 4

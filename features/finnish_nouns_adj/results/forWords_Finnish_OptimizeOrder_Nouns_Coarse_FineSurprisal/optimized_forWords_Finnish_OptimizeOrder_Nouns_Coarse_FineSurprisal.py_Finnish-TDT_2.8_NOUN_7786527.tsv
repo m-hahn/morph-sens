@@ -1,4 +1,4 @@
-179 22.237469871756815 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=7786527, language='Finnish-TDT_2.8', model=None) [5.217551602334652, 3.1815866978533687, 3.1815866978533687, 3.1815866978533687]
+519 22.237469871756815 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=7786527, language='Finnish-TDT_2.8', model=None) [5.217551602334652, 3.1767814102509733, 3.1767814102509733, 3.1767814102509733]
 Derivation 0
 Abbr 2
 Number 4

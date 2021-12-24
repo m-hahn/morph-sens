@@ -1,4 +1,4 @@
-119 14.212055219515296 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=4835537, language='Polish-PDB_2.8', model=None) [4.766779785095852, 2.0592480057498594, 2.0291480053545636, 2.0291480053545636]
+519 14.212055219515296 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=4835537, language='Polish-PDB_2.8', model=None) [4.766779785095852, 2.042920995158665, 2.025767369301017, 2.025767369301017]
 Aspect 0
 VerbForm 2
 NumType 4

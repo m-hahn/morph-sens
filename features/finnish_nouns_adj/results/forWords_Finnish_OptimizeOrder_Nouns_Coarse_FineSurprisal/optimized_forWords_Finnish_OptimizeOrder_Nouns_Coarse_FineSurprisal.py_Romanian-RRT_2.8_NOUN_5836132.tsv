@@ -1,9 +1,9 @@
-179 13.681335383708063 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=5836132, language='Romanian-RRT_2.8', model=None) [4.4178386193484425, 1.9906215177809572, 1.9516609354647596, 1.9516609354647596]
+859 13.681127271566915 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=5836132, language='Romanian-RRT_2.8', model=None) [4.4178386193484425, 1.9936751090053972, 1.9338987977188031, 1.9338987977188031]
 Abbr 0
 Gender 2
 Foreign 4
 Number 6
-Case 8
-Degree 10
-Definite 12
-Variant 14
+Variant 8
+Case 10
+Degree 12
+Definite 14

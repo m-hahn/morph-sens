@@ -1,10 +1,10 @@
-179 11.667423407126357 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=3587827, language='Czech-PDT_2.8', model=None) [4.455469298788107, 1.8128142739693545, 1.7882107421330464, 1.6749073618262535]
-Style 0
-Animacy 2
-Gender 4
-Foreign 6
-Abbr 8
-Number 10
-Case 12
-Aspect 14
+279 11.66742065466023 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=3587827, language='Czech-PDT_2.8', model=None) [4.455469298788107, 1.6828676965633254, 1.6665869633882995, 1.6639052237270964]
+Aspect 0
+Style 2
+Animacy 4
+Gender 6
+Foreign 8
+Abbr 10
+Number 12
+Case 14
 Polarity 16

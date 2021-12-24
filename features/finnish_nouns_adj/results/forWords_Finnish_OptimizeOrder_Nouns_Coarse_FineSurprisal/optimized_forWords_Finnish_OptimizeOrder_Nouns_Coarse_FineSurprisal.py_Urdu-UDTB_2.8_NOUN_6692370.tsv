@@ -1,4 +1,4 @@
-279 11.995173651085853 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6692370, language='Urdu-UDTB_2.8', model=None) [4.090273066866956, 1.7138494639589925, 1.7138494639589925, 1.7138494639589925]
+579 11.995173651085853 Namespace(POS='NOUN', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6692370, language='Urdu-UDTB_2.8', model=None) [4.090273066866956, 1.71872339561904, 1.71872339561904, 1.71872339561904]
 Voice 0
 Foreign 2
 Polite 4
