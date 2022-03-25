@@ -6,13 +6,24 @@ with open("output/collect.py.txt", "r") as inFile:
 
 from scipy.optimize import linprog
 
-
-
+itos = []
+itos_set = set()
+stoi = {}
+def toOneHot(x):
+  if x not in itos_set:
+    itos.append(x)
+    itos_set.add(x)
+    stoi[x] = len(itos)-1
+  r = [0 for _ in range(40)]
+  r[stoi[x]] = 1
+  return r
 data_ = []
 
 sumProbabilities = 0
 for lemma, form, probability in data:
    probability = int(probability)
+   if probability < 1000:
+     continue
    sumProbabilities += probability
    form_chars = list(form) + ["EOS"]
 #   print(form_chars)
@@ -22,11 +33,11 @@ for lemma, form, probability in data:
 random.shuffle(data_)
 inputs = [x for x, _, _ in data_]
 outputs = [y for _, y, _ in data_]
-probabilities = [z/sumProbabilities * len(data_) for _, _, z in data_] #* len(data_)
-random.shuffle(probabilities)
-for i in range((100)):
+probabilities = torch.FloatTensor([z/sumProbabilities * len(data_) for _, _, z in data_]) #* len(data_)
+#random.shuffle(probabilities)
+for i in [7]: #range((100)):
   relevant =([j for j, x in enumerate(inputs) if len(x) == i])
-  if len(relevant) > 0:
+  if len(relevant) > 1:
      similarity = torch.zeros(len(relevant), len(relevant))
      for j in range(len(relevant)):
        for k in range(j):
@@ -34,143 +45,49 @@ for i in range((100)):
 #         if int(similarity[j][k]) == 0:
 #           print(inputs[relevant[j]], inputs[relevant[k]])
      print(i, len(relevant), similarity)
-#     quit()
-quit()
-
-from collections import defaultdict
-inputsAtLength = defaultdict(list)
-for i in range(len(inputs)):
-   inputsAtLength[len(inputs[i])].append(i)
-
-itos_outputs = sorted(list(set(outputs)))
-stoi_outputs = dict(list(zip(itos_outputs, range(len(itos_outputs)))))
-
-print(outputs[:5])
-
-# - real
-# - totally shuffled
-# - shuffled within lemmas
-
-#random.shuffle(outputs)
-print(outputs[:5])
-#quit()
-
-import torch
-
-def variance(x, target, targetProb):
-   counts = defaultdict(int)
-   totalProb = 0
-   for y, prob in x:
-     counts[y]+=prob
-     totalProb+=prob
-   variance = 0
-   for y in counts:
-     mean = counts[y]/totalProb
-     if target == y:
-        variance += math.pow((1-mean), 2)
-     else:
-        variance += math.pow(mean, 2)
-   return targetProb * variance
-#   print(x)
-#   quit()
-#   if len(x) == 0:
-#     return 0
-#   onehots = torch.zeros(len(x), len(itos_outputs))-1
-#   for i in range(len(x)):
-#     onehots[i,x[i]] = 1
-#   return float((onehots.pow(2).mean(dim=0) - onehots.mean(dim=0).pow(2)).sum())
-#   return sum([y**2 for y in x])/len(x) - (sum(x)/len(x))**2
+     similarity = similarity + similarity.t()
+     probabilitiesHere = probabilities[torch.LongTensor(relevant)]
+     probabilitiesHere = probabilitiesHere / probabilitiesHere.sum()
+     transitionMatrix = (-0.5*similarity).exp()
+     transitionMatrix = transitionMatrix / transitionMatrix.sum(dim=1).unsqueeze(1)
 
 
+     function = torch.FloatTensor([toOneHot(outputs[j]) for j in relevant])
+     approximator = torch.FloatTensor([toOneHot(outputs[j]) for j in relevant]) #torch.zeros(len(relevant), function.size()[1])
+     approximator.requires_grad = True
+     optim = torch.optim.SGD([approximator], lr=0.2)
+     for itera in range(50000):
+       optim.zero_grad()
+       sensitivity = (probabilitiesHere.unsqueeze(1) * (torch.matmul(transitionMatrix, approximator) - approximator).pow(2)).sum()
+       error = (probabilitiesHere.unsqueeze(1) * (function - approximator).pow(2)).sum()
+       loss = error + 3 * sensitivity
+       loss.backward()
+       optim.step()
+       print(i, itera, error, sensitivity, loss)
+     for y, j in enumerate(relevant):
+       predicted = int(approximator[y,:len(itos)].argmax())
+       print(i, float(probabilitiesHere[y]), "\t", inputs[j], "\t", itos[predicted] if predicted < len(itos) else "OUT", "\t", outputs[j])
 
+#     quit()    
+     continue
 
-def getMaxOverPartitions(A, b, x_bounds, perSubsetSensitivities):
-   #print(perSubsetSensitivities)
-   c = [-x for x in perSubsetSensitivities]
-   res = linprog(c, A_ub=A, b_ub=b, bounds=x_bounds)
-   # find the highly sensitive partition
-   return -res.fun, res.x
+     print(transitionMatrix)
+     morphism = transitionMatrix + probabilitiesHere.unsqueeze(0) / probabilitiesHere.unsqueeze(1) * transitionMatrix.t()
 
-
-perMasked = defaultdict(list)
-
-for i in range(len(data)):
- # print(i)
-  form = inputs[i]
-  label = outputs[i]
-#  print(label)
-  subsets = set()
-  for s in range(len(form)+1):
-     for t in range(s):
-        subsets.add(("0"*t) + ("1"*(s-t)) + ("0"*(len(form)-s)))
-#  print(subsets)
-  subsets = list(subsets)
-  varianceBySubset = []
-  formsForSubset = []
-  if i % 10 == 0:
-     print(i/len(data))
-  for s in subsets:
-     formsForSubset.append([])
- #    print(s, form)
-     relevantFeatureSets = []
-     relevantForm = tuple([form[j] if s[j] == "0" else "#"  for j in range(len(form))])
-     perMasked[relevantForm].append((label, probabilities[i]))
-
-
-averageSensitivity =0
-counterSensitivity = 0
-for i in range(len(data)):
- # print(i)
-  form = inputs[i]
-  label = outputs[i]
-#  print(label)
-  subsets = set()
-  for s in range(len(form)+1):
-     for t in range(s):
-        subsets.add(("0"*t) + ("1"*(s-t)) + ("0"*(len(form)-s)))
-#  print(subsets)
-  subsets = list(subsets)
-  varianceBySubset = []
-  formsForSubset = []
-  for s in subsets:
-     formsForSubset.append([])
- #    print(s, form)
-     relevantFeatureSets = []
-     relevantForm = tuple([form[j] if s[j] == "0" else "#"  for j in range(len(form))])
-     f = [(stoi_outputs[x], y) for x, y in perMasked[relevantForm]]
      
-     varianceBySubset.append(variance(f, stoi_outputs[label], probabilities[i]))
- #    quit()
-  #print(varianceBySubset)
 
-
-  subsetsEnumeration = subsets
-  if len(subsetsEnumeration) == 0:
-    continue
-  N = len(subsetsEnumeration[0])
-  A = [[0 for subset in range(len(subsetsEnumeration))] for inp in range(N)]
-  for inp in range(N):
-      for subset, bitstr in enumerate(subsetsEnumeration):
-         assert len(bitstr) == N
-         if bitstr[inp] == "1":
-             A[inp][subset] = 1
-
-
-  b = [1 for _ in range(N)]
-  x_bounds = [(0,1) for _ in range(len(subsetsEnumeration))]
-  perSubsetSensitivities = [varianceBySubset[x]+0.001*len([y for y in subsets[x] if y == "0"]) for x in range(len(subsetsEnumeration))]
- # print(i)
-  sensitivity, assignment = getMaxOverPartitions(A, b, x_bounds, perSubsetSensitivities)
-  print("-----")
-  averageSensitivity  +=  float(sensitivity)
-  counterSensitivity += 1
-  print(i, form, "Sensitivity", sensitivity, "Average", averageSensitivity/counterSensitivity)
-#  print(assignment)
-  if True: #False:
-   for i in range(len(subsets)):
-     if assignment[i] > 1e-5 and varianceBySubset[i] > 1e-5:
-        print(subsets[i], assignment[i], varianceBySubset[i], formsForSubset[i])
-#  if i > -1:
- #    break
-   
+     laplacian = torch.diag(torch.zeros(len(relevant))+1) - morphism
+     print(laplacian)
+     approximationOperator = torch.inverse(torch.diag(torch.zeros(len(relevant))+1) + 0.1 * laplacian)
+     print(approximationOperator)
+     function = torch.FloatTensor([toOneHot(outputs[j]) for j in relevant])
+ #    print(approximationOperator.size(), function.size())
+     approximated = torch.matmul(approximationOperator, function)
+#     print(approximated)
+     for y, j in enumerate(relevant):
+       predicted = int(approximated[y,:len(itos)].argmax())
+       print(float(probabilitiesHere[y]), "\t", inputs[j], itos[predicted] if predicted < len(itos) else "OUT")
+     quit()
+     # now construct the smoothing matrix
+#     quit()
 

@@ -1,14 +1,22 @@
+import torch
 with open("/u/scr/mhahn/UNIMORPH/lat/lat", "r") as inFile:
   data = [x.split("\t") for x in  inFile.read().strip().split("\n") if len(x) > 3]
 
 from scipy.optimize import linprog
 import math
 
-data = [x for x in data if "ADJ" in x[2] and "VOC" not in x[2]]
+data = [(x, 1) for x in data if "ADJ" in x[2] and "VOC" not in x[2]]
+
+data= data[:100]
 
 import random
 
 random.Random(5).shuffle(data)
+
+weights = torch.FloatTensor([x[1] for x in data])
+weights = weights/weights.sum()
+
+data = [x[0] for x in data]
 
 forms = [x[1] for x in data]
 case_set = set(["NOM", "GEN", "DAT", "ACC", "VOC", "NONE", "ABL"])
@@ -27,11 +35,12 @@ print(labels[:5])
 # - totally shuffled
 # - shuffled within lemmas
 
+
+
 #random.shuffle(labels)
 print(labels[:5])
 #quit()
 
-import torch
 
 toVectorCache = {}
 def toVector(x):
@@ -50,8 +59,9 @@ def toVector(x):
 def variance(x):
    if len(x) == 0:
      return 0
-   onehots = torch.stack(x, dim=0)
-   return float((onehots.pow(2).mean(dim=0) - onehots.mean(dim=0).pow(2)).sum())
+   probs = torch.stack([y[1] for y in x], dim=0).unsqueeze(1)
+   onehots = torch.stack([y[0] for y in x], dim=0)
+   return float(((onehots.pow(2) * probs).sum(dim=0) - (onehots * probs).sum(dim=0).pow(2)).sum())
 #   return sum([y**2 for y in x])/len(x) - (sum(x)/len(x))**2
 
 
@@ -93,7 +103,7 @@ for form, labels_ in fromFormToLabels.items():
  #    print(s, form)
      relevantFeatureSets = []
      relevantForm = tuple([form[j] if s[j] == "0" else "#"  for j in range(len(form))])
-     perMasked[relevantForm].append(toVector(labels_))
+     perMasked[relevantForm].append((toVector(labels_), weights[counter-1]))
 
 sensitivitiesSum = 0
 
@@ -120,7 +130,10 @@ for i in range(len(data)):
      relevantFeatureSets = []
      relevantForm = tuple([form[j] if s[j] == "0" else "#"  for j in range(len(form))])
      f = [x for x in perMasked[relevantForm]]
-     varianceBySubset.append(variance(f))
+     if len(f) == 1:
+        varianceBySubset.append(0)
+     else:
+        varianceBySubset.append(variance(f))
  #    quit()
   #print(varianceBySubset)
 
