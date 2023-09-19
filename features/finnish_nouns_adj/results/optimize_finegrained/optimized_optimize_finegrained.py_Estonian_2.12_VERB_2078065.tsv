@@ -1,0 +1,27 @@
+1619 9.051333829599532 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2078065, language='Estonian_2.12', model=None) [4.002362497061295, 1.3121677683919286, 1.2811128736303732, 1.2811128736303732]
+VerbForm:Conv 0
+Style:Slng 2
+VerbForm:Fin 4
+Abbr:Yes 6
+Tense:Pres 8
+Tense:Past 10
+Connegative:Yes 12
+Number:Sing 14
+Number:Plur 16
+VerbForm:Sup 18
+Person:1 20
+Person:2 22
+Polarity:Neg 24
+Mood:Qot 26
+Person:3 28
+Case:Ela 30
+Case:Abe 32
+Case:Ine 34
+Case:Tra 36
+Mood:Ind 38
+Mood:Cnd 40
+Voice:Pass 42
+Mood:Imp 44
+Case:Ill 46
+Voice:Act 48
+Typo:Yes 50

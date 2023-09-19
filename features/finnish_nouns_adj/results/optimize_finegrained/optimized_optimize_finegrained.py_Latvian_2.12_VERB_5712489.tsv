@@ -1,0 +1,27 @@
+639 8.724327947430805 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=5712489, language='Latvian_2.12', model=None) [3.979068471008367, 1.2773248297113131, 1.2538039580647669, 1.2538039580647669]
+Reflex:Yes 0
+Evident:Fh 2
+Tense:Past 4
+Tense:Fut 6
+Tense:Pres 8
+Typo:Yes 10
+Abbr:Yes 12
+Polarity:Pos 14
+Mood:Nec 16
+Polarity:Neg 18
+Mood:Qot 20
+Number:Sing 22
+Evident:Nfh 24
+Person:3 26
+Number:Plur 28
+Person:2 30
+Person:1 32
+Case:Nom 34
+Gender:Masc 36
+Mood:Ind 38
+Gender:Fem 40
+VerbForm:Conv 42
+Mood:Imp 44
+Mood:Cnd 46
+Voice:Act 48
+VerbForm:Fin 50

@@ -1,0 +1,21 @@
+559 9.946890369066175 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=8780445, language='Romanian_2.12', model=None) [4.089664016533705, 1.5235779328281076, 1.4098838297103196, 1.4098838297103196]
+Mood:Ind 0
+Mood:Imp 2
+Polarity:Pos 4
+Tense:Imp 6
+Tense:Past 8
+Mood:Sub 10
+Case:Acc,Nom 12
+Tense:Pqp 14
+Tense:Pres 16
+VerbForm:Ger 18
+Gender:Fem 20
+Polarity:Neg 22
+Number:Plur 24
+Variant:Long 26
+Number:Sing 28
+Person:1 30
+Person:3 32
+Person:2 34
+VerbForm:Fin 36
+Variant:Short 38

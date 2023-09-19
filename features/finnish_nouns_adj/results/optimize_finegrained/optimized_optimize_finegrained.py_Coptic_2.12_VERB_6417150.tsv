@@ -1,0 +1,4 @@
+499 15.09093665056956 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6417150, language='Coptic_2.12', model=None) [4.170803995457521, 2.1558480929385087, 2.1558480929385087, 2.1558480929385087]
+Foreign:Yes 0
+Polarity:Neg 2
+VerbForm:Fin 4

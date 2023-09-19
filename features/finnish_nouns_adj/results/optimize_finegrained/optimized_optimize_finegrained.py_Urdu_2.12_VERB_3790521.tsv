@@ -1,0 +1,22 @@
+1179 8.285943258216871 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=3790521, language='Urdu_2.12', model=None) [3.767564119400367, 1.193747658925455, 1.193747658925455, 1.193747658925455]
+Case:Nom 0
+Tense:Past 2
+Case:Acc 4
+Tense:Pres 6
+Gender:Fem 8
+Polite:Infm 10
+Polite:Form 12
+Mood:Imp 14
+Gender:Masc 16
+Tense:Fut 18
+Mood:Sub 20
+Mood:Ind 22
+VerbForm:Fin 24
+Number:Sing 26
+Person:1 28
+Number:Plur 30
+Person:3 32
+Person:2 34
+Voice:Act 36
+VerbForm:Conv 38
+Voice:Pass 40

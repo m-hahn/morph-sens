@@ -1,0 +1,13 @@
+799 9.639358601184306 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=5754858, language='Norwegian_2.12', model=None) [3.7730282903833703, 1.3770512287406154, 1.3770512287406154, 1.3770512287406154]
+Abbr:Yes 0
+VerbForm:Fin 2
+Voice:Pass 4
+Tense:Past 6
+VerbForm:Fin,Part 8
+Tense:Pres 10
+Mood:Ind 12
+Number:Sing 14
+Gender:Fem,Masc 16
+Mood:Imp 18
+Gender:Neut 20
+Definite:Ind 22

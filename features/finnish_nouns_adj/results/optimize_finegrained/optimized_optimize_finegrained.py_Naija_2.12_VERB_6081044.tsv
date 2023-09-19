@@ -1,0 +1,12 @@
+899 17.914491073941058 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6081044, language='Naija_2.12', model=None) [4.738480115335824, 2.562611909082261, 2.562611909082261, 2.562611909082261]
+Number:Sing 0
+Person:1 2
+Person:3 4
+Tense:Pres 6
+PartType:Cop 8
+Tense:Past 10
+Mood:Ind 12
+VerbForm:Fin 14
+Mood:Opt 16
+VerbType:Cop 18
+Aspect:Imp 20

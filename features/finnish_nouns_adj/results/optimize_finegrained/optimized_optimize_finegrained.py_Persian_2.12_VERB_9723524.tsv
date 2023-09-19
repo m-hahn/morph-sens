@@ -1,0 +1,13 @@
+639 7.905783328306111 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=9723524, language='Persian_2.12', model=None) [3.6096372893791697, 1.1943190571408875, 1.1830824335991987, 1.170147234521399]
+Mood:Sub 0
+Voice:Act 2
+Polarity:Neg 4
+Voice:Pass 6
+Tense:Pres 8
+Mood:Imp 10
+Tense:Past 12
+Person:3 14
+Person:2 16
+Person:1 18
+Number:Sing 20
+Number:Plur 22

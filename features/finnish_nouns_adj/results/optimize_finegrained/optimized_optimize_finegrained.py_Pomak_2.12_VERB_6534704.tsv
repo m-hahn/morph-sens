@@ -1,0 +1,22 @@
+659 6.91184299288663 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6534704, language='Pomak_2.12', model=None) [3.7452417882500564, 1.0131100976433036, 0.9895864852492288, 0.9895864852492288]
+Polarity:Neg 0
+Aspect:Perf 2
+Definite:Def 4
+Aspect:Prog 6
+Deixis:Remt 8
+Case:Nom 10
+Aspect:Imp 12
+Tense:Pres 14
+Tense:Past 16
+Mood:Ind 18
+Person:1 20
+Mood:Imp 22
+VerbForm:Conv 24
+Person:2 26
+Person:3 28
+Number:Plur 30
+Number:Sing 32
+VerbForm:Fin 34
+Gender:Neut 36
+Aspect:Iter 38
+Voice:Act 40

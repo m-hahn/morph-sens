@@ -1,0 +1,12 @@
+659 8.737251175266643 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=18140, language='Serbian_2.12', model=None) [3.6625451977949615, 1.2611963647882318, 1.256830511189064, 1.256830511189064]
+VerbForm:Fin 0
+Mood:Imp 2
+Tense:Fut 4
+Tense:Pres 6
+Mood:Ind 8
+Number:Sing 10
+Number:Plur 12
+Tense:Past 14
+Person:3 16
+Person:1 18
+Person:2 20

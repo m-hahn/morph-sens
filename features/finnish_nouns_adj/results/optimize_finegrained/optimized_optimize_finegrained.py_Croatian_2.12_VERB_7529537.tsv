@@ -1,0 +1,11 @@
+539 8.692736266694155 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=7529537, language='Croatian_2.12', model=None) [3.678660630831384, 1.2419688870845431, 1.2419688870845431, 1.2419688870845431]
+VerbForm:Fin 0
+Mood:Imp 2
+Mood:Ind 4
+Tense:Pres 6
+Person:2 8
+Tense:Past 10
+Person:3 12
+Person:1 14
+Number:Plur 16
+Number:Sing 18
