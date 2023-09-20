@@ -1,4 +1,4 @@
-739 4.569910748135637 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=7051066, language='Arabic_2.12', model=None) [3.3749551985261976, 0.6677116031494624, 0.6460759453951923, 0.6437610015679242]
+999 4.569910748135637 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=7051066, language='Arabic_2.12', model=None) [3.3749551985261976, 0.6937136304103181, 0.6456295778434177, 0.6431393419113711]
 Case:Nom 0
 VerbForm:Fin 2
 Definite:Ind 4

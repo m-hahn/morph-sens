@@ -1,4 +1,4 @@
-1179 7.837882550523052 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=9225758, language='Latin_2.12', model=None) [3.992622542995594, 1.1672882074168074, 1.1092444487795179, 1.086903685373024]
+1639 7.837882550523052 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=9225758, language='Latin_2.12', model=None) [3.992622542995594, 1.1674346356906136, 1.1091289410584746, 1.0867715845943735]
 Case:Dat 0
 VerbForm:Ger 2
 Compound:Yes 4

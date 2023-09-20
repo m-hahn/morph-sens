@@ -1,4 +1,4 @@
-1219 7.428063182412622 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=144228, language='German_2.12', model=None) [3.6835313599230806, 1.0629992203686187, 1.0629992203686187, 1.0629992203686187]
+1579 7.428063182412622 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=144228, language='German_2.12', model=None) [3.6835313599230806, 1.0611860862764821, 1.0611860862764821, 1.0611860862764821]
 Foreign:Yes 0
 Voice:Pass 2
 Typo:Yes 4

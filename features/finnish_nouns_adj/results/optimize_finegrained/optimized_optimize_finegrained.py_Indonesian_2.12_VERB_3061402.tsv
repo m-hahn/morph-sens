@@ -1,0 +1,6 @@
+499 14.513682751756555 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=3061402, language='Indonesian_2.12', model=None) [4.2268949058041665, 2.0733832502509366, 2.0733832502509366, 2.0733832502509366]
+Mood:Ind 0
+Mood:Imp 2
+Typo:Yes 4
+Voice:Act 6
+Voice:Pass 8

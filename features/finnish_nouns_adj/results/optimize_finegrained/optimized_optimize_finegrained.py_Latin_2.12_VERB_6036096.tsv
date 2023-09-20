@@ -1,4 +1,4 @@
-839 7.848740916934872 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6036096, language='Latin_2.12', model=None) [3.992622542995594, 1.154034193778624, 1.1252595358068747, 1.099346168089927]
+979 7.848740916934872 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6036096, language='Latin_2.12', model=None) [3.992622542995594, 1.1538958564003847, 1.1247297825108855, 1.0990437846016963]
 Polarity:Neg 0
 Case:Dat 2
 Compound:Yes 4

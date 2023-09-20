@@ -1,4 +1,4 @@
-619 9.007455874643277 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=779221, language='Icelandic_2.12', model=None) [4.018676303558002, 1.3085338353635019, 1.2731509215672543, 1.2731509215672543]
+779 9.007455874643277 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=779221, language='Icelandic_2.12', model=None) [4.018676303558002, 1.3639393062939356, 1.3180513654698387, 1.3180513654698387]
 PronType:Dem 0
 Voice:Act 2
 Voice:Mid 4

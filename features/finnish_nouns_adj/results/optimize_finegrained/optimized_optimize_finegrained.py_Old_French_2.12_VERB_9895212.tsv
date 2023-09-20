@@ -1,0 +1,4 @@
+499 0.855888425042874 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=9895212, language='Old_French_2.12', model=None) [2.430043079643711, 0.1298994001516231, 0.11892934808107186, 0.11853393538600632]
+Tense:Past 0
+Tense:Pres 2
+VerbForm:Fin 4

@@ -1,4 +1,4 @@
-1219 8.913170975565347 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=4007086, language='Finnish_2.12', model=None) [3.9099662043823913, 1.273524624364819, 1.273524624364819, 1.273524624364819]
+1399 8.913170975565347 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=4007086, language='Finnish_2.12', model=None) [3.9099662043823913, 1.2735388381062989, 1.2735388381062989, 1.2735388381062989]
 Clitic:Kaan,Ko 0
 Mood:Opt 2
 Polarity:Neg 4

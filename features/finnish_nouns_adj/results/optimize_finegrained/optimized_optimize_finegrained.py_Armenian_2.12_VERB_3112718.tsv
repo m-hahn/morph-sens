@@ -1,4 +1,4 @@
-879 7.925545294194325 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=3112718, language='Armenian_2.12', model=None) [4.159242520927839, 1.1372761577657162, 1.1372761577657162, 1.1372761577657162]
+919 7.925545294194325 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=3112718, language='Armenian_2.12', model=None) [4.159242520927839, 1.1845212303682349, 1.1750223456829079, 1.1579521130712682]
 Style:Coll 0
 Aspect:Iter,Perf 2
 Aspect:Imp 4

@@ -1,4 +1,4 @@
-899 8.995618311862636 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=8221086, language='Icelandic_2.12', model=None) [4.018676303558002, 1.3021507941290995, 1.2743802491387692, 1.2743802491387692]
+1139 8.995618311862636 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=8221086, language='Icelandic_2.12', model=None) [4.018676303558002, 1.3022329152758956, 1.2742159877674941, 1.2742159877674941]
 PronType:Int 0
 NumType:Card 2
 Definite:Ind 4

@@ -1,4 +1,4 @@
-259 8.519237379355232 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=4973807, language='Russian_2.12', model=None) [4.117286890284246, 1.3595028883502955, 1.2506265077170646, 1.2057327845984636]
+659 8.519237379355232 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=4973807, language='Russian_2.12', model=None) [4.117286890284246, 1.2730823440476324, 1.1786746588419263, 1.1786746588419263]
 Aspect:Perf 0
 Aspect:Imp 2
 Voice:Mid 4
