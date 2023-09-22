@@ -1,4 +1,4 @@
-299 8.002512848507571 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=3862817, language='Persian_2.12', model=None) [3.6096372893791697, 1.1803959009770186, 1.1547662868346718, 1.1290550779242277]
+599 8.002512848507571 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=3862817, language='Persian_2.12', model=None) [3.6096372893791697, 1.1965152510765165, 1.1534002543316482, 1.1285560258338574]
 Mood:Sub 0
 Voice:Act 2
 Polarity:Neg 4

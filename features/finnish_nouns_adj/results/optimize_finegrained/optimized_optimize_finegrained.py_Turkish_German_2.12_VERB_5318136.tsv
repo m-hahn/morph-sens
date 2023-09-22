@@ -1,4 +1,4 @@
-1679 10.499869054182216 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=5318136, language='Turkish_German_2.12', model=None) [4.151007345049277, 1.5513086198173103, 1.5091392719333734, 1.5091392719333734]
+1819 10.499869054182216 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=5318136, language='Turkish_German_2.12', model=None) [4.151007345049277, 1.5929105880483396, 1.5623717357269071, 1.5623717357269071]
 Voice:CauPass 0
 Voice:Rcp 2
 Voice:CauRcp 4

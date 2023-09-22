@@ -1,0 +1,18 @@
+599 8.144996560680685 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6504582, language='Slovenian_2.12', model=None) [3.8259434725766535, 1.1693223882441603, 1.1600530710120847, 1.1600530710120847]
+Polarity:Neg 0
+Aspect:Perf 2
+Polarity:Pos 4
+Aspect:Imp 6
+Mood:Cnd 8
+Mood:Imp 10
+Tense:Fut 12
+Tense:Pres 14
+Mood:Ind 16
+VerbForm:Sup 18
+Number:Plur 20
+Number:Dual 22
+Number:Sing 24
+Person:2 26
+Person:3 28
+Person:1 30
+VerbForm:Fin 32

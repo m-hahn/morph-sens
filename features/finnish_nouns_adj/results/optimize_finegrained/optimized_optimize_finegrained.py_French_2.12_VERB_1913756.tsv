@@ -1,4 +1,4 @@
-399 8.407387018895498 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=1913756, language='French_2.12', model=None) [3.769246226002568, 1.2010552884136432, 1.2010552884136432, 1.2010552884136432]
+819 8.407387018895498 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=1913756, language='French_2.12', model=None) [3.769246226002568, 1.2010552884136432, 1.2010552884136432, 1.2010552884136432]
 Gender:Masc 0
 VerbForm:Fin 2
 Typo:Yes 4

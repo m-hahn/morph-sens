@@ -1,0 +1,16 @@
+839 7.440334872294802 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=3761752, language='Gothic_2.12', model=None) [3.6917485684838143, 1.1491822202800672, 1.0615888344596587, 1.0615888344596587]
+VerbForm:Fin 0
+Voice:Act 2
+Voice:Pass 4
+Number:Plur 6
+Number:Sing 8
+Number:Dual 10
+Mood:Opt 12
+Mood:Imp 14
+Mood:Ind 16
+Aspect:Perf 18
+Person:3 20
+Person:1 22
+Person:2 24
+Tense:Pres 26
+Tense:Past 28

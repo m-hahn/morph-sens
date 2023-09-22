@@ -1,12 +1,12 @@
-559 9.277985074263647 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2360263, language='Ancient_Greek_2.12', model=None) [4.007237365520431, 1.3588716835992953, 1.348377144427248, 1.348377144427248]
-VerbForm:Gdv 0
-Number:Dual 2
-Gender:Fem 4
-Voice:Mid 6
-Voice:Act 8
-Voice:Pass 10
-Gender:Neut 12
-Voice:Mid,Pass 14
+1239 9.277872354745494 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2360263, language='Ancient_Greek_2.12', model=None) [4.007237365520431, 1.3311595091585526, 1.3218521701206405, 1.3218521701206405]
+Number:Dual 0
+Gender:Fem 2
+Voice:Mid 4
+Voice:Act 6
+Voice:Pass 8
+Gender:Neut 10
+Voice:Mid,Pass 12
+VerbForm:Gdv 14
 Tense:Pres 16
 Aspect:Imp 18
 Tense:Pqp 20

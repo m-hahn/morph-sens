@@ -1,0 +1,22 @@
+1279 9.228324537964522 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=285731, language='Hungarian_2.12', model=None) [3.807071575798408, 1.3631924540183302, 1.352079087777255, 1.352079087777255]
+Typo:Yes 0
+VerbForm:Fin 2
+Aspect:Iter 4
+Voice:Act 6
+Mood:Imp,Pot 8
+Mood:Cnd,Pot 10
+Mood:Cnd 12
+Voice:Cau 14
+Mood:Imp 16
+Mood:Ind 18
+Mood:Pot 20
+Number:Plur 22
+Number:Sing 24
+Tense:Past 26
+Tense:Pres 28
+Definite:Ind 30
+Definite:2 32
+Definite:Def 34
+Person:3 36
+Person:2 38
+Person:1 40

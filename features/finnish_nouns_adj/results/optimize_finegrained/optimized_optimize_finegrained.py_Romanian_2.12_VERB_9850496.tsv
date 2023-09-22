@@ -1,4 +1,4 @@
-259 9.90259075604137 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=9850496, language='Romanian_2.12', model=None) [4.089664016533705, 1.5039412346413563, 1.387365796203549, 1.387365796203549]
+679 9.90259075604137 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=9850496, language='Romanian_2.12', model=None) [4.089664016533705, 1.465462241904813, 1.3845359399579218, 1.3845359399579218]
 Tense:Past 0
 Mood:Imp 2
 Tense:Imp 4

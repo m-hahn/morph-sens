@@ -1,4 +1,4 @@
-139 9.141445860371245 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6346868, language='Russian_2.12', model=None) [4.117286890284246, 1.3899177949297754, 1.3318905495132238, 1.318333005984031]
+579 9.141445860371245 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6346868, language='Russian_2.12', model=None) [4.117286890284246, 1.3059208371958921, 1.3059208371958921, 1.3059208371958921]
 Mood:Ind 0
 VerbForm:Fin 2
 Number:Plur 4
