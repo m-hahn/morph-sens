@@ -1,0 +1,19 @@
+519 9.619270369547127 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=9227737, language='Italian_2.12', model=None) [3.934143206257889, 1.4541277154557142, 1.3672581494122988, 1.3672581494122988]
+Gender:Masc 0
+Typo:Yes 2
+VerbForm:Fin 4
+Person:1 6
+Person:3 8
+Person:2 10
+Mood:Imp 12
+VerbForm:Ger 14
+Mood:Cnd 16
+Mood:Sub 18
+Mood:Ind 20
+Number:Sing 22
+Number:Plur 24
+Tense:Pres 26
+Tense:Fut 28
+Gender:Fem 30
+Tense:Imp 32
+Tense:Past 34

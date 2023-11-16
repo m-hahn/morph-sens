@@ -1,0 +1,17 @@
+359 8.9304771024878 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=4816565, language='Catalan_2.12', model=None) [3.8355135402870255, 1.2757824432125426, 1.2757824432125426, 1.2757824432125426]
+VerbForm:Fin 0
+Number:Sing 2
+Number:Plur 4
+Mood:Sub 6
+Mood:Cnd 8
+VerbForm:Ger 10
+Mood:Ind 12
+Tense:Past 14
+Tense:Pres 16
+Tense:Imp 18
+Mood:Imp 20
+Foreign:Yes 22
+Tense:Fut 24
+Person:1 26
+Person:3 28
+Person:2 30

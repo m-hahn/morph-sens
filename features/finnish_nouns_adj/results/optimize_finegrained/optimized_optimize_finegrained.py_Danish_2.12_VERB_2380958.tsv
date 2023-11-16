@@ -1,0 +1,9 @@
+519 9.067201103942843 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2380958, language='Danish_2.12', model=None) [3.664857872834769, 1.2953144434204065, 1.2953144434204065, 1.2953144434204065]
+VerbForm:Fin 0
+Mood:Ind 2
+VerbForm:Ger 4
+Voice:Pass 6
+Mood:Imp 8
+Voice:Act 10
+Tense:Pres 12
+Tense:Past 14

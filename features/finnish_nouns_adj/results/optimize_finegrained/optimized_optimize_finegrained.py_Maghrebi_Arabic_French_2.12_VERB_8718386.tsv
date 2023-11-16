@@ -1,0 +1,16 @@
+599 23.41068630298858 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=8718386, language='Maghrebi_Arabic_French_2.12', model=None) [5.011246980923124, 3.360213252130849, 3.360213252130849, 3.360213252130849]
+Mood:Ind 0
+Typo:Yes 2
+Person:3 4
+Gender:Fem 6
+Person:2 8
+Tense:Pres 10
+Person:1 12
+Gender:Masc 14
+Number:Plur 16
+VerbForm:Fin 18
+Number:Sing 20
+Polarity:Neg 22
+Mood:Sub 24
+Mood:Imp 26
+AdpType:Prep 28

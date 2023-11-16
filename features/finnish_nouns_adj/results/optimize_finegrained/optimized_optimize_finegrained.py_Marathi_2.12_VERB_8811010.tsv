@@ -1,0 +1,24 @@
+719 9.608554916694459 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=8811010, language='Marathi_2.12', model=None) [3.811789871204917, 1.4339862263684637, 1.3814891102700264, 1.3814891102700264]
+Aspect:Perf 0
+Mood:Sub 2
+VerbForm:Fin 4
+Aspect:Prosp 6
+Tense:Fut 8
+Gender:Fem 10
+Aspect:Imp 12
+Tense:Pres 14
+Gender:Neut 16
+Voice:Cau 18
+Aspect:Hab 20
+Mood:Imp 22
+Person:1 24
+Gender:Masc 26
+VerbForm:Sup 28
+VerbForm:Conv 30
+Mood:Ind 32
+Tense:Past 34
+Person:2 36
+Person:3 38
+Case:Abs 40
+Number:Sing 42
+Number:Plur 44

@@ -1,0 +1,18 @@
+819 26.120299539863733 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=4481630, language='Galician_2.12', model=None) [5.409808756139468, 3.7314713628376763, 3.7314713628376763, 3.7314713628376763]
+Tense:Fut 0
+Tense:Pqp 2
+Person:1 4
+Foreign:Yes 6
+Mood:Imp 8
+Person:2 10
+Tense:Imp 12
+Mood:Sub 14
+Tense:Past 16
+Number:Plur 18
+Tense:Pres 20
+Mood:Cnd,Ind 22
+Mood:Ind 24
+VerbForm:Ger 26
+Number:Sing 28
+Person:3 30
+VerbForm:Fin 32

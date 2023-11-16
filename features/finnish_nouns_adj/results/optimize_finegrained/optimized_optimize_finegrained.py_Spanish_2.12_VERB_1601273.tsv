@@ -1,0 +1,20 @@
+639 9.541005637130283 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=1601273, language='Spanish_2.12', model=None) [3.9425678985171473, 1.3747253240255106, 1.356237233580364, 1.356237233580364]
+VerbForm:Fin 0
+Mood:Sub 2
+Mood:Ind 4
+Number:Sing 6
+Number:Plur 8
+Tense:Fut 10
+Gender:Masc 12
+Mood:Cnd 14
+Tense:Imp 16
+Tense:Past 18
+Tense:Pres 20
+Gender:Fem 22
+Typo:Yes 24
+Mood:Imp 26
+Person:3 28
+Foreign:Yes 30
+Person:2 32
+VerbForm:Ger 34
+Person:1 36

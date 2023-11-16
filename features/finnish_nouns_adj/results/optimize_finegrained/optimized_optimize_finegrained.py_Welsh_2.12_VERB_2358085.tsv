@@ -1,0 +1,21 @@
+1019 6.327348260688769 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2358085, language='Welsh_2.12', model=None) [3.4608178775166074, 1.0210804581834683, 0.8862575804544438, 0.8862575804544438]
+Mutation:NM 0
+VerbForm:Fin 2
+Mutation:SM 4
+Person:1 6
+VerbForm:FinRel 8
+Mutation:AM 10
+Person:3 12
+Person:0 14
+Person:2 16
+Tense:Fut 18
+Tense:Pqp 20
+Tense:Imp 22
+Tense:Pres 24
+Tense:Past 26
+Number:Sing 28
+Number:Plur 30
+Mood:Sub 32
+Mood:Ind 34
+Mood:Imp 36
+Mood:Cnd 38

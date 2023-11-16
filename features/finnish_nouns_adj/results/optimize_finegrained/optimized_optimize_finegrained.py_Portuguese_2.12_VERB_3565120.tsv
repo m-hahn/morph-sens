@@ -1,0 +1,24 @@
+979 8.507744694403787 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=3565120, language='Portuguese_2.12', model=None) [3.8151232388997176, 1.3057375086100365, 1.228201542866764, 1.228201542866764]
+ExtPos:AUX 0
+Gender:Fem 2
+VerbForm:Fin 4
+Typo:Yes 6
+Number:Sing 8
+ExtPos:SCONJ 10
+Number:Plur 12
+Person:2 14
+Voice:Pass 16
+Person:1 18
+Person:3 20
+Tense:Past 22
+Tense:Pqp 24
+Tense:Pres 26
+Tense:Fut 28
+Mood:Imp 30
+Gender:Masc 32
+ExtPos:CCONJ 34
+Tense:Imp 36
+VerbForm:Ger 38
+Mood:Cnd 40
+Mood:Ind 42
+Mood:Sub 44

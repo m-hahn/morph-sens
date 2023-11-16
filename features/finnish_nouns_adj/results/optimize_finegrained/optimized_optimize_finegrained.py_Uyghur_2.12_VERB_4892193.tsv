@@ -1,0 +1,27 @@
+639 9.084784610091127 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=4892193, language='Uyghur_2.12', model=None) [4.052183578454777, 1.332661452548702, 1.3232235120937634, 1.3232235120937634]
+Voice:Pass 0
+Polarity:Neg 2
+Number:Sing 4
+VerbForm:Ger 6
+Case:Acc 8
+Case:Gen 10
+Case:Loc 12
+Case:Nom 14
+Case:Dat 16
+Case:Abl 18
+Number:Plur 20
+Person:2 22
+Polite:Form 24
+Person:3 26
+Person[psor]:3 28
+Aspect:Perf 30
+Person:1 32
+Mood:Cnd 34
+Number[psor]:Plur,Sing 36
+VerbForm:Conv 38
+VerbForm:Fin 40
+Mood:Ind 42
+Mood:Imp 44
+Tense:Pres 46
+Tense:Past 48
+Aspect:Hab 50

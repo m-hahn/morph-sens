@@ -1,0 +1,21 @@
+579 8.998668546226426 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=8031744, language='Greek_2.12', model=None) [3.886426057438099, 1.3676617694104454, 1.3676617694104454, 1.3676617694104454]
+Mood:Imp 0
+Mood:Ind 2
+Gender:Neut 4
+VerbForm:Fin 6
+Number:Plur 8
+Number:Sing 10
+Person:1 12
+Person:2 14
+VerbForm:Conv 16
+Person:3 18
+Tense:Past 20
+Tense:Pres 22
+Case:Acc 24
+Gender:Masc 26
+Case:Nom 28
+Aspect:Perf 30
+Aspect:Imp 32
+Voice:Pass 34
+Voice:Act 36
+Gender:Fem 38

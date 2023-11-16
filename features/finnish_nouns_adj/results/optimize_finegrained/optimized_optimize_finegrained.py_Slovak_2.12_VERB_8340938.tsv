@@ -1,0 +1,21 @@
+579 9.173550442057412 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=8340938, language='Slovak_2.12', model=None) [3.7753179255120446, 1.3807411053836585, 1.3807411053836585, 1.3807411053836585]
+Aspect:Perf 0
+Aspect:Imp 2
+Aspect:Imp,Perf 4
+Polarity:Neg 6
+Polarity:Pos 8
+Animacy:Inan 10
+Typo:Yes 12
+Gender:Fem 14
+Number:Plur 16
+Number:Sing 18
+VerbForm:Conv 20
+Mood:Ind 22
+Tense:Pres 24
+Mood:Imp 26
+Tense:Fut 28
+Person:2 30
+Person:1 32
+Person:3 34
+Gender:Masc 36
+VerbForm:Fin 38

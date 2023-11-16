@@ -1,4 +1,4 @@
-459 8.505169617610935 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=5044039, language='Portuguese_2.12', model=None) [3.8151232388997176, 1.2150469135751931, 1.2150469135751931, 1.2150469135751931]
+859 8.505169617610935 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=5044039, language='Portuguese_2.12', model=None) [3.8151232388997176, 1.2953026310888782, 1.2953026310888782, 1.2953026310888782]
 ExtPos:AUX 0
 Gender:Masc 2
 VerbForm:Fin 4

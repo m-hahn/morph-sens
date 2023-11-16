@@ -1,0 +1,12 @@
+499 10.025134458620698 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2365687, language='Scottish_Gaelic_2.12', model=None) [3.66910510755138, 1.4336017989654948, 1.4336017989654948, 1.4336017989654948]
+Person:0 0
+Tense:Pres 2
+Foreign:Yes 4
+Tense:Fut 6
+Typo:Yes 8
+Person:1 10
+Person:2 12
+Form:Emp 14
+Mood:Imp 16
+Mood:Cnd 18
+Tense:Past 20

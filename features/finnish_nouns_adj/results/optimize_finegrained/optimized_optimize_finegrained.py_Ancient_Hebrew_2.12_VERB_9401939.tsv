@@ -1,0 +1,20 @@
+559 7.8900480818744825 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=9401939, language='Ancient_Hebrew_2.12', model=None) [3.756013628364088, 1.231720037886918, 1.1669387317274802, 1.1669387317274802]
+VerbForm:Fin 0
+HebBinyan:PIEL 2
+HebBinyan:NIFAL 4
+HebBinyan:PAAL 6
+HebBinyan:HITPAEL 8
+HebBinyan:HIFIL 10
+HebBinyan:PUAL 12
+Number:Plur 14
+Number:Sing 16
+Tense:Past 18
+Aspect:Imp 20
+Aspect:Perf 22
+Gender:Fem 24
+Gender:Masc 26
+Mood:Imp 28
+Person:2 30
+Person:3 32
+Person:1 34
+Mood:Ind 36

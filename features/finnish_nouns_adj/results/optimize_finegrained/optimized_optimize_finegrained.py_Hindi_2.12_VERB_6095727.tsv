@@ -1,0 +1,26 @@
+599 8.89709568382738 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6095727, language='Hindi_2.12', model=None) [3.8273573798067475, 1.2889548048414172, 1.2608061535628758, 1.2608061535628758]
+Number:Plur 0
+VerbForm:Conv 2
+Case:Acc,Erg 4
+Number:Sing 6
+Polite:Infm 8
+Case:Acc,Gen 10
+Mood:Imp 12
+VerbForm:Fin 14
+Mood:Ind 16
+Tense:Pres 18
+Tense:Fut 20
+Echo:Rdp 22
+Poss:Yes 24
+Tense:Past 26
+Gender:Fem 28
+Mood:Sub 30
+Case:Nom 32
+Gender:Masc 34
+Polite:Form 36
+Person:3 38
+Person:1 40
+Voice:Pass 42
+Person:2 44
+Voice:Act 46
+Case:Acc 48

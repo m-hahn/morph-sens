@@ -1,0 +1,26 @@
+699 11.032744423478398 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=1365361, language='Lithuanian_2.12', model=None) [4.114874014462608, 1.581411172513999, 1.5731173697886756, 1.5731173697886756]
+Hyph:Yes 0
+Reflex:Yes 2
+Polarity:Pos 4
+Polarity:Neg 6
+VerbForm:Fin 8
+Person:2 10
+VerbForm:Ger 12
+Person:3 14
+Person:1 16
+Mood:Cnd 18
+Gender:Masc 20
+Case:Nom 22
+Mood:Ind 24
+Gender:Fem 26
+Tense:Past 28
+Mood:Imp 30
+VerbForm:Conv 32
+Aspect:Perf 34
+Tense:Pres 36
+Tense:Fut 38
+Voice:Act 40
+Aspect:Hab 42
+Voice:Pass 44
+Number:Plur 46
+Number:Sing 48

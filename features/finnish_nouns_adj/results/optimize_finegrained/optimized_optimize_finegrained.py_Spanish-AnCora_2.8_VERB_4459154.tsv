@@ -1,0 +1,15 @@
+519 8.802861341718092 Namespace(language='Spanish-AnCora_2.8', POS='VERB', model=None, alpha=1.0, gamma=1, delta=1.0, cutoff=4, idForProcess=4459154) [3.8420698277512475, 1.3223582063207289, 1.2572982834030202, 1.2572982834030202]
+VerbForm:Fin 0
+Person:1 2
+Person:2 4
+Person:3 6
+Mood:Imp 8
+Mood:Cnd 10
+Mood:Ind 12
+Mood:Sub 14
+Tense:Pres 16
+Tense:Fut 18
+Tense:Past 20
+Tense:Imp 22
+Number:Plur 24
+Number:Sing 26

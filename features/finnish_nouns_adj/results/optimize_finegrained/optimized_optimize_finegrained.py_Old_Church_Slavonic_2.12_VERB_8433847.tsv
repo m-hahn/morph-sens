@@ -1,0 +1,20 @@
+659 7.423758570899757 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=8433847, language='Old_Church_Slavonic_2.12', model=None) [3.818797235129777, 1.1441766752535474, 1.0546631354401526, 1.0546631354401526]
+Polarity:Neg 0
+VerbForm:Fin 2
+Mood:Imp 4
+Mood:Ind 6
+Case:Nom 8
+Number:Plur 10
+Case:Acc 12
+Number:Sing 14
+Number:Dual 16
+Tense:Pres 18
+Tense:Past 20
+Voice:Pass 22
+VerbForm:Sup 24
+Aspect:Imp 26
+Aspect:Perf 28
+Person:3 30
+Person:1 32
+Person:2 34
+Voice:Act 36

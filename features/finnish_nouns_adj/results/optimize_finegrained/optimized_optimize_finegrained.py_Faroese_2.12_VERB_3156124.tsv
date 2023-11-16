@@ -1,0 +1,6 @@
+499 1.9269717059594456 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=3156124, language='Faroese_2.12', model=None) [2.651821531984153, 0.27604943706324014, 0.27489393935255546, 0.2748872173093344]
+Mood:Sub 0
+Mood:Ind 2
+Tense:Past 4
+Tense:Pres 6
+Mood:Imp 8

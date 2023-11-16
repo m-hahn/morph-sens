@@ -1,0 +1,21 @@
+679 10.944964152711663 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2937121, language='English_2.12', model=None) [4.098671528199726, 1.5638676311641817, 1.5638676311641817, 1.5638676311641817]
+ExtPos:ADP 0
+Degree:Pos 2
+Style:Vrnc 4
+Abbr:Yes 6
+Person:2 8
+Person:3 10
+Case:Nom 12
+Person:1 14
+Number:Sing 16
+VerbForm:Ger 18
+Number:Plur 20
+Tense:Past 22
+Voice:Pass 24
+Polarity:Neg 26
+Tense:Pres 28
+Mood:Ind 30
+Mood:Imp 32
+Mood:Sub 34
+VerbForm:Fin 36
+Typo:Yes 38

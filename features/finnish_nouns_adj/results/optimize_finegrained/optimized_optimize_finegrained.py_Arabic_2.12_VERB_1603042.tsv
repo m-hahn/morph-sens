@@ -1,0 +1,25 @@
+759 4.555889157764824 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=1603042, language='Arabic_2.12', model=None) [3.3749551985261976, 0.663226906400076, 0.646396441997375, 0.6430096596381288]
+VerbForm:Fin 0
+Mood:Jus 2
+Mood:Imp 4
+Case:Nom 6
+Definite:Ind 8
+AdpType:Prep 10
+Case:Gen 12
+Case:Acc 14
+Definite:Def 16
+Mood:Ind 18
+Mood:Sub 20
+Voice:Pass 22
+Voice:Act 24
+Definite:Com 26
+Aspect:Perf 28
+Aspect:Imp 30
+Person:3 32
+Person:2 34
+Person:1 36
+Number:Dual 38
+Number:Plur 40
+Number:Sing 42
+Gender:Fem 44
+Gender:Masc 46

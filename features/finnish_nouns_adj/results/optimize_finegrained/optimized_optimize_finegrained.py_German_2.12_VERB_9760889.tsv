@@ -1,0 +1,17 @@
+899 7.453651429800715 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=9760889, language='German_2.12', model=None) [3.6835313599230806, 1.072429536349778, 1.060272652662134, 1.060272652662134]
+Voice:Pass 0
+Person:2 2
+Person:1 4
+Polite:Form 6
+Foreign:Yes 8
+Typo:Yes 10
+Person:3 12
+Tense:Past 14
+Tense:Pres 16
+Number:Plur 18
+Number:Sing 20
+Mood:Ind 22
+Abbr:Yes 24
+Mood:Imp 26
+Mood:Sub 28
+VerbForm:Fin 30

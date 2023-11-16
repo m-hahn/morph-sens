@@ -1,0 +1,24 @@
+599 8.545272534961363 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=2618147, language='Portuguese_2.12', model=None) [3.8151232388997176, 1.2423690050135554, 1.2084091399322512, 1.2084091399322512]
+ExtPos:AUX 0
+VerbForm:Fin 2
+Tense:Fut 4
+Tense:Imp 6
+Typo:Yes 8
+Tense:Pres 10
+Tense:Past 12
+Voice:Pass 14
+Number:Sing 16
+Number:Plur 18
+Gender:Masc 20
+ExtPos:SCONJ 22
+Mood:Cnd 24
+Person:1 26
+Tense:Pqp 28
+Mood:Imp 30
+Person:2 32
+Person:3 34
+Gender:Fem 36
+Mood:Sub 38
+ExtPos:CCONJ 40
+Mood:Ind 42
+VerbForm:Ger 44

@@ -1,4 +1,4 @@
-1199 6.410282502857211 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=9690129, language='Czech_2.12', model=None) [3.7140967469606605, 0.9188634929717809, 0.9188634929717809, 0.9188634929717809]
+1779 6.410282220438688 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=9690129, language='Czech_2.12', model=None) [3.7140967469606605, 0.9174694040524544, 0.9174694040524544, 0.9174694040524544]
 Animacy:Inan 0
 Aspect:Imp,Perf 2
 Abbr:Yes 4
@@ -14,11 +14,11 @@ Number:Plur 22
 Number:Sing 24
 Tense:Fut 26
 Tense:Pres 28
-Voice:Act 30
-Mood:Ind 32
-Mood:Imp 34
-VerbForm:Conv 36
-Style:Arch 38
+Style:Arch 30
+Voice:Act 32
+Mood:Ind 34
+Mood:Imp 36
+VerbForm:Conv 38
 Tense:Past 40
 Gender:Fem 42
 Gender:Masc 44

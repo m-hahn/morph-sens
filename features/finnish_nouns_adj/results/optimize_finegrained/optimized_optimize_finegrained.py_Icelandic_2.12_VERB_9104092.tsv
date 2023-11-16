@@ -1,4 +1,4 @@
-599 9.048924761595412 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=9104092, language='Icelandic_2.12', model=None) [4.018676303558002, 1.31865827424165, 1.2767419601892496, 1.2767419601892496]
+1059 9.048924761595412 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=9104092, language='Icelandic_2.12', model=None) [4.018676303558002, 1.3185368186457727, 1.2764929847688549, 1.2764929847688549]
 Degree:Cmp 0
 NumType:Card 2
 Definite:Ind 4

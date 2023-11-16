@@ -1,0 +1,15 @@
+599 8.290038392355886 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=5140212, language='Bulgarian_2.12', model=None) [3.836076348609784, 1.2036332910374632, 1.1873007235301514, 1.1873007235301514]
+VerbForm:Fin 0
+Number:Sing 2
+Number:Plur 4
+Mood:Imp 6
+Voice:Act 8
+Mood:Ind 10
+Person:2 12
+Person:1 14
+Person:3 16
+Tense:Pres 18
+Tense:Imp 20
+Tense:Past 22
+Aspect:Imp 24
+Aspect:Perf 26

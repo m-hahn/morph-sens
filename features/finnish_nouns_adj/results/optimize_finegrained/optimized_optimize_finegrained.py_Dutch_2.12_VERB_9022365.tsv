@@ -1,0 +1,6 @@
+499 11.807793658553937 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=9022365, language='Dutch_2.12', model=None) [3.9490367022777693, 1.7729468069532888, 1.7189740133642095, 1.7189740133642095]
+VerbForm:Fin 0
+Number:Plur 2
+Number:Sing 4
+Tense:Past 6
+Tense:Pres 8

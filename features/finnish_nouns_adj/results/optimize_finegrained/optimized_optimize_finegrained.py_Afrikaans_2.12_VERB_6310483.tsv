@@ -1,0 +1,7 @@
+499 11.355800206187098 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=6310483, language='Afrikaans_2.12', model=None) [3.764119467060925, 1.6222604819835955, 1.6222604819835955, 1.6222604819835955]
+Subcat:Intr 0
+Subcat:Tran 2
+Subcat:Prep 4
+Tense:Pres 6
+VerbForm:Fin 8
+VerbForm:Fin,Inf 10

@@ -1,0 +1,21 @@
+539 10.525053443710853 Namespace(POS='VERB', alpha=1.0, cutoff=4, delta=1.0, gamma=1, idForProcess=8798478, language='Swedish_2.12', model=None) [3.8771625928951137, 1.5035790633872648, 1.5035790633872648, 1.5035790633872648]
+VerbForm:Fin 0
+Mood:Ind 2
+Definite:Ind 4
+Gender:Com 6
+Abbr:Yes 8
+VerbForm:Sup 10
+PronType:Prs 12
+Case:Gen 14
+Tense:Pres 16
+Mood:Imp 18
+Mood:Sub 20
+Tense:Past 22
+Degree:Pos 24
+Definite:Def 26
+Gender:Neut 28
+Poss:Yes 30
+Voice:Act 32
+Voice:Pass 34
+Number:Sing 36
+Case:Nom 38
