@@ -1,5 +1,6 @@
 # based on yWithMorphologySequentialStreamDropoutDev_Ngrams_Log.py
 
+__file__ = __file__.split("/")[-1]
 import random
 import sys
 from corpus import CORPUS
@@ -70,7 +71,12 @@ def processVerb(verb, data_):
     # assumption that each verb is a single word
    for vb in verb:
       labels = vb["morph"]
-      if "VerbForm=Part" in labels or "VerbForm=Inf" in labels:
+      if "VerbForm=Part" in labels or "VerbForm=Inf" in labels or "VerbForm=Ger" in labels:
+          continue
+      if "Gender=Masc" in labels:
+          print("Warning", vb)
+        # There is an annotation error: 
+        # es_ancora-ud-train.conllu:25    admitirán       admitir VERB    _       Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin       1       ccomp   _       _
           continue
       morphs = finnish_noun_segmenter_coarse.get_abstract_morphemes(labels)
       fine = finnish_noun_segmenter.get_abstract_morphemes(labels)
@@ -111,6 +117,8 @@ itos = set()
 for data_ in [data_train, data_dev]:
   for verbWithAff in data_:
     for affix in verbWithAff[1:]:
+      if "Gender" in getRepresentation(affix) and "Spanish-AnCora" in language:
+        assert False, verbWithAff
       itos.add(getRepresentation(affix))
 itos = sorted(list(itos))
 stoi = dict(list(zip(itos, range(len(itos)))))
@@ -143,6 +151,8 @@ def calculateTradeoffForWeights(weights):
 mostCorrect, mostCorrectValue = 1e100, None
 hasImproved = -1
 
+print(weights)
+#quit()
 import os
 for iteration in range(10000):
   # Randomly select a morpheme whose position to update
